@@ -1,0 +1,13 @@
+<exercise checkit-seed="0006" checkit-slug="TI3" checkit-title="Integration of Trignometry">
+    <statement>
+        <p>
+            Evaluate <m>\displaystyle \int 4 \, \cos\left(x\right)^{3} \sin\left(x\right)^{8} dx</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <m>-\frac{4}{11} \, \sin\left(x\right)^{11} + \frac{4}{9} \, \sin\left(x\right)^{9}+C</m>.
+        </p>
+    </answer>
+</exercise>

@@ -1,0 +1,13 @@
+<exercise checkit-seed="0002" checkit-slug="TI5" checkit-title="Table of Integrals">
+    <statement>
+        <p>
+            Consider the integral <m>\displaystyle\int -10 \, \sqrt{-100 \, x^{2} + 49}dx</m>.
+        </p>
+        <p>
+            Using a table of integrals, evaluate this integral.
+        </p>
+    </statement>
+    <answer>
+        <me>\displaystyle\int -10 \, \sqrt{-100 \, x^{2} + 49}dx=-5 \, \sqrt{-100 \, x^{2} + 49} x - \frac{49}{2} \, \arcsin\left(\frac{10}{7} \, x\right)+C.</me>
+    </answer>
+</exercise>

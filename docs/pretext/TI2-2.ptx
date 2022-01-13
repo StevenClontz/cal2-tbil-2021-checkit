@@ -1,0 +1,39 @@
+<exercise checkit-seed="0002" checkit-slug="TI2" checkit-title="Integration by parts">
+    <statement>
+        <ol>
+            <li>
+                <p>
+                    Explain how to find the anti-derivative of <m>f(x)=2 \, x^{3} \sin\left(x\right)</m>.
+                    
+                </p>
+                
+            </li>
+            <li>
+                <p>
+                    Explain how to evaluate the following definite integral:
+                    <me>
+                        \int_{ 4 }^{ 7 } 2 \, x^{3} \sin\left(x\right) dx.
+                    </me>
+                </p>
+            </li>
+        </ol>
+        
+        
+    </statement>
+    <answer>
+        <ol>
+            <li>
+                <p>
+                    <m>\displaystyle \int 2 \, x^{3} \sin\left(x\right) dx=-2 \, x^{3} \cos\left(x\right) + 6 \, x^{2} \sin\left(x\right) + 12 \, x \cos\left(x\right) - 12 \, \sin\left(x\right)+C.</m>
+                </p>
+                
+            </li>
+            <li>
+                <p>
+                    <m>\displaystyle \int_{ 4 }^{ 7 } 2 \, x^{3} \sin\left(x\right) dx = -602 \, \cos\left(7\right) + 80 \, \cos\left(4\right) + 282 \, \sin\left(7\right) - 84 \, \sin\left(4\right).</m>
+                </p>
+                
+            </li>
+        </ol>
+    </answer>
+</exercise>

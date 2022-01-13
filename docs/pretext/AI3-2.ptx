@@ -1,0 +1,28 @@
+<exercise checkit-seed="0002" checkit-slug="AI3" checkit-title="Volumes of Revolution">
+    <statement>
+        <p>
+            Consider the region bound by <m>y=\sqrt{x + 1},  x=3, x=6</m>.  
+            
+            <ol>
+                <li>Find an integral which computes the volume of the solid formed by rotating this region about the <m>x</m>-axis.</li>
+                <li>Find an integral which computes the volume of the solid formed by rotating this region about the <m>y</m>-axis.</li>
+            </ol>
+            
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <ol>
+                <li>Using the washer/disk method, we obtain <me>\int_{ 3 }^{ 6 } \pi \left(\sqrt{x + 1}\right)^2dx</me> and using the shell method, we obtain 
+                    <me>\int_0^{ 2 } 2\pi y\left( 6-3\right)dy +\int_{ 2 }^{ \sqrt{7} } 2\pi y\left( 6-\left(y^{2} - 1\right)\right)dy.</me></li>
+                
+                
+                <li>Using the washer/disk method, we obtain 
+                    <me>\int_0^{ 2 } \pi\left(6^2-3^2\right)dy + \int_{ 2 }^{ \sqrt{7} } \pi\left(6^2-\left(y^{2} - 1\right)^2\right)dy</me> and using the shell method, we obtain 
+                    <me>\int_{ 3 }^{ 6 }2\pi x \left(\sqrt{x + 1}\right)dx.</me>
+                </li>    
+            </ol>
+        </p>
+    </answer>
+</exercise>

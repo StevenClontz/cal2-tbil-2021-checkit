@@ -1,0 +1,31 @@
+<exercise checkit-seed="0005" checkit-slug="SQ8" checkit-title="Absolute convergence">
+    <statement>
+        <p>
+            For each of the following series, determine if the series is <em>convergent</em>, and if the series is  <em>absolutely convergent</em>.
+        </p>
+        <ol>
+            <li>
+                <m>\displaystyle \sum_{n=1}^\infty \frac{{\left(2 \, n^{3} + n^{2}\right)} \left(-1\right)^{n + 1}}{2 \, n^{4} + 3}.</m>
+            </li>            
+            <li>
+                <m>\displaystyle \sum_{n=1}^\infty \frac{5 \, \left(-1\right)^{n + 1} n}{2^{n}}.</m>
+            </li>            
+        </ol>
+    </statement>
+    <answer>
+       <ol>
+            <li>
+                
+                        <m>\displaystyle \sum_{n=1}^\infty \frac{{\left(2 \, n^{3} + n^{2}\right)} \left(-1\right)^{n + 1}}{2 \, n^{4} + 3}</m> converges but is not absolutely convergent.               
+                    
+                
+            </li>            
+            <li>
+                
+                        <m>\displaystyle \sum_{n=1}^\infty \frac{5 \, \left(-1\right)^{n + 1} n}{2^{n}}</m> converges  and is absolutely convergent.                
+                    
+                
+            </li>            
+        </ol>
+    </answer>
+</exercise>

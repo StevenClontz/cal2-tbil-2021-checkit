@@ -1,0 +1,13 @@
+<exercise checkit-seed="0001" checkit-slug="TI3" checkit-title="Integration of Trignometry">
+    <statement>
+        <p>
+            Evaluate <m>\displaystyle \int 4 \, \cos\left(x\right)^{6} \sin\left(x\right)^{5} dx</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <m>-\frac{4}{11} \, \cos\left(x\right)^{11} + \frac{8}{9} \, \cos\left(x\right)^{9} - \frac{4}{7} \, \cos\left(x\right)^{7}+C</m>.
+        </p>
+    </answer>
+</exercise>

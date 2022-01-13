@@ -1,0 +1,21 @@
+<exercise checkit-seed="0008" checkit-slug="PS3" checkit-title="Manipulation of power series">
+    <statement>
+        <p>
+            Recall that the power series for <m>f(x)=-\frac{1}{x - 1}</m> is: <me>-\frac{1}{x - 1}=\sum_{n=0}^{\infty} x^{n}.</me>
+            
+            <ol>
+                <li>Find a power series for <m>-\frac{1}{2 \, x^{4} - 1}</m>.</li>
+                <li>Find a power series for <m>-\frac{x^{4}}{x - 1}</m>.</li>
+                <li>Find a power series for <m>f'(x)</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li><m>\displaystyle -\frac{1}{2 \, x^{4} - 1} = \sum_{n=0}^{\infty}\left(2 \, x^{4}\right)^{n}</m>.</li>
+                <li><m>\displaystyle -\frac{x^{4}}{x - 1} = \sum_{n= 0 }^{\infty}x^{n + 4}</m>.</li>
+                <li><m>\displaystyle f'(x)=\sum_{n=0}^{\infty}{\left(n + 1\right)} x^{n}</m>.</li>
+            </ol>
+    </answer>
+</exercise>

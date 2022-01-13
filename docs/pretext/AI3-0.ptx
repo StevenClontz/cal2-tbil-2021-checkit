@@ -1,0 +1,28 @@
+<exercise checkit-seed="0000" checkit-slug="AI3" checkit-title="Volumes of Revolution">
+    <statement>
+        <p>
+            Consider the region bound by <m>y=\frac{5}{2} \, x,  x=0, x=3</m>.  
+            
+            <ol>
+                <li>Find an integral which computes the volume of the solid formed by rotating this region about the <m>x</m>-axis.</li>
+                <li>Find an integral which computes the volume of the solid formed by rotating this region about the <m>y</m>-axis.</li>
+            </ol>
+            
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <ol>
+                <li>Using the washer/disk method, we obtain <me>\int_{ 0 }^{ 3 } \pi \left(\frac{5}{2} \, x\right)^2dx</me> and using the shell method, we obtain 
+                    <me>\int_0^{ 0 } 2\pi y\left( 3-0\right)dy +\int_{ 0 }^{ \frac{15}{2} } 2\pi y\left( 3-\left(\frac{2}{5} \, y\right)\right)dy.</me></li>
+                
+                
+                <li>Using the washer/disk method, we obtain 
+                    <me>\int_0^{ 0 } \pi\left(3^2-0^2\right)dy + \int_{ 0 }^{ \frac{15}{2} } \pi\left(3^2-\left(\frac{2}{5} \, y\right)^2\right)dy</me> and using the shell method, we obtain 
+                    <me>\int_{ 0 }^{ 3 }2\pi x \left(\frac{5}{2} \, x\right)dx.</me>
+                </li>    
+            </ol>
+        </p>
+    </answer>
+</exercise>

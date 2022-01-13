@@ -1,0 +1,16 @@
+<exercise checkit-seed="0000" checkit-slug="CO1" checkit-title="Parametric/vector equations">
+    <statement>
+        <p>
+            Given the vector equation <m>\hat{ v }(t)=\langle -t, -2 \, \cos\left(t\right) + 2 \rangle</m>:
+            
+            <ol>
+                <li>Write this equation as parametric equations .</li>
+                <li>Sketch the graph of the corresponding curve.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <m>x(t)=-t, y(t)=-2 \, \cos\left(t\right) + 2</m>.
+    </answer>
+</exercise>

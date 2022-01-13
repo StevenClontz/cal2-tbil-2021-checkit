@@ -1,0 +1,15 @@
+<exercise checkit-seed="0006" checkit-slug="SQ4" checkit-title="Geometric summations">
+    <statement>
+        <p>
+            Find the limit of the following series.
+        </p>
+        <me>
+            4 + \sum_{n = 2 }^\infty 2\cdot\left(\frac{2}{3}\right)^n.
+        </me>
+    </statement>
+    <answer>
+        <me>
+            4 + \sum_{n = 2 }^\infty 2\cdot\left(\frac{2}{3}\right)^n=\frac{20}{3}.
+        </me>
+    </answer>
+</exercise>

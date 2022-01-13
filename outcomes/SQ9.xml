@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+    <statement>
+        <p>
+            Determine which of the following series is <em>convergent</em> and which is <em>divergent</em>.  Justify both choices with an appropriate test.
+        </p>
+        <ol>
+            {{#Problems}}
+            <li>
+                <m>\displaystyle \sum_{n=1}^\infty {{Sequence}}.</m>
+            </li>            
+            {{/Problems}}
+        </ol>
+    </statement>
+    <answer>
+       <ol>
+            {{#Problems}}
+            <li>
+                
+                        {{#Converge}}
+                        <m>\displaystyle \sum_{n=1}^\infty {{Sequence}}</m> is convergent.                
+                        {{/Converge}}
+                        {{^Converge}}
+                        <m>\displaystyle \sum_{n=1}^\infty {{Sequence}}</m> is divergent.               
+                        {{/Converge}}
+                    
+                
+            </li>            
+            {{/Problems}}
+        </ol>
+    </answer>
+</exercise>

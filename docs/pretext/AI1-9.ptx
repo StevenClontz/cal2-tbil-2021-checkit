@@ -1,0 +1,13 @@
+<exercise checkit-seed="0009" checkit-slug="AI1" checkit-title="Average Values">
+    <statement>
+        <p>
+            Find an integral that computes the average value of <m>f(x)=x^{2} + 3 \, x + 2 \, \sin\left(-\frac{3}{4} \, \pi x\right) + 5</m> over the interval <m>[0, 1]</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            The average value of <m>f(x)=x^{2} + 3 \, x + 2 \, \sin\left(-\frac{3}{4} \, \pi x\right) + 5</m> over the interval <m>[0, 1]</m> is <me>\frac{1}{ 1-0 } \int_{ 0 }^{ 1 } x^{2} + 3 \, x + 2 \, \sin\left(-\frac{3}{4} \, \pi x\right) + 5dx= \frac{41 \, \pi - 8 \, \sqrt{2} - 16}{6 \, \pi}.</me>
+        </p>
+    </answer>
+</exercise>

@@ -1,0 +1,39 @@
+<exercise checkit-seed="0000" checkit-slug="TI2" checkit-title="Integration by parts">
+    <statement>
+        <ol>
+            <li>
+                <p>
+                    Explain how to find the anti-derivative of <m>f(x)=x \cos\left(x\right)</m>.
+                    
+                </p>
+                
+            </li>
+            <li>
+                <p>
+                    Explain how to evaluate the following definite integral:
+                    <me>
+                        \int_{ 3 }^{ 5 } x \cos\left(x\right) dx.
+                    </me>
+                </p>
+            </li>
+        </ol>
+        
+        
+    </statement>
+    <answer>
+        <ol>
+            <li>
+                <p>
+                    <m>\displaystyle \int x \cos\left(x\right) dx=x \sin\left(x\right) + \cos\left(x\right)+C.</m>
+                </p>
+                
+            </li>
+            <li>
+                <p>
+                    <m>\displaystyle \int_{ 3 }^{ 5 } x \cos\left(x\right) dx = \cos\left(5\right) - \cos\left(3\right) + 5 \, \sin\left(5\right) - 3 \, \sin\left(3\right).</m>
+                </p>
+                
+            </li>
+        </ol>
+    </answer>
+</exercise>

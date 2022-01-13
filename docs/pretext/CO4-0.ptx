@@ -1,0 +1,25 @@
+<exercise checkit-seed="0000" checkit-slug="CO4" checkit-title="Polar coordinates">
+    <statement>
+        <p>
+            <ol>
+                <li>
+                    Convert the following rectangular equation to a polar equation: <m>x=-5.</m>
+                </li>
+                <li>
+                    Convert the following polar equation to a rectangular equation: <m>r=-5 \, \csc\left({\theta}\right).</m>
+                </li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li>
+                    <m>r=-5 \, \sec\left({\theta}\right).</m>
+                </li>
+                <li>
+                    <m>y=-5.</m>
+                </li>
+            </ol>
+    </answer>
+</exercise>

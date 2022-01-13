@@ -1,0 +1,55 @@
+<exercise checkit-seed="0003" checkit-slug="SQ1" checkit-title="Sequence formulas">
+    <statement>
+        <ol>
+            <li>
+                Find the first 5 terms of the following sequence:
+                <ul>
+                    <li><m>a_n=\left(-\frac{1}{4}\right)^{n}.</m></li>
+                    ,
+                </ul>
+            </li>
+            <li>
+                Find a closed form for the following sequence:
+                <ul>
+                    <li><m>1, 2, 5, 10, 17,\ldots</m></li>
+                    ,
+                </ul>
+            </li>
+            <li>
+                Find a recursive form for the following sequence:
+                <ul>
+                    <li><m>-4, -9, -14, -19, -24,\ldots</m></li>
+                    ,
+                </ul>
+            </li>
+            
+            
+        </ol>
+    </statement>
+    <answer>
+        <ol>
+            <li>
+                <ul>
+                    <li><m>-\frac{1}{4}, \frac{1}{16}, -\frac{1}{64}, \frac{1}{256}, -\frac{1}{1024}</m> if you start with <m> n=1</m>, or <m>1, -\frac{1}{4}, \frac{1}{16}, -\frac{1}{64}, \frac{1}{256}</m> if you start with <m> n=0</m>.</li>
+                    ,
+                </ul>
+            </li>
+            
+            <li>
+                <ul>
+                    <li>Answers can vary depending on your choice of starting index.  For example, <m>n^{2} + 1</m> if <m> n=0,1,...</m>.</li>
+                    ,
+                </ul>
+            </li>
+            
+            <li>
+                <ul>
+                    <li>Answers can vary depending on your choice of starting index.  For example, if <m>a_0=-4</m> then <m>a_n=1a_{n-1}+-5</m>.</li>
+                    ,
+                </ul>
+            </li>
+            
+           
+        </ol>
+    </answer>
+</exercise>

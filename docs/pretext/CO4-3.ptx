@@ -1,0 +1,25 @@
+<exercise checkit-seed="0003" checkit-slug="CO4" checkit-title="Polar coordinates">
+    <statement>
+        <p>
+            <ol>
+                <li>
+                    Convert the following rectangular equation to a polar equation: <m>y=-3 \, x.</m>
+                </li>
+                <li>
+                    Convert the following polar equation to a rectangular equation: <m>r=-2 \, \csc\left({\theta}\right).</m>
+                </li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li>
+                    <m>{\theta}=-\arctan\left(3\right).</m>
+                </li>
+                <li>
+                    <m>y=-2.</m>
+                </li>
+            </ol>
+    </answer>
+</exercise>

@@ -1,0 +1,20 @@
+<exercise checkit-seed="0006" checkit-slug="PS1" checkit-title="Power series">
+    <statement>
+        <p>
+            Consider a function <m>p(x)</m> defined by <me>p(x):=\sum_{n=0}^\infty \frac{4 \, n + 5}{\left(2 \, n\right)!}x^n.</me>
+            <ol>
+                <li>Find <m>p_{ 2 }(x)</m>, the degree <m>2</m> polynomial approximation for <m>p(x)</m>.</li>
+                <li>Use <m>p_{ 2 }(x)</m> to estimate <m>p(1)</m> by computing <m>p_{ 2 }(1)</m>.</li>
+                <li>Use <m>p_{ 2 }(x)</m> to estimate <m>\displaystyle \int_{ 5 }^{ 10 }p(x)dx</m> by computing <m>\displaystyle \int_{ 5 }^{ 10 }p_{ 2 }(x)dx</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li> <m> p_{ 2 }(x)=\frac{13}{24} \, x^{2} + \frac{9}{2} \, x + 5</m>.</li>
+                <li><m>p_{ 2 }(1) = \frac{241}{24}</m>.</li>
+                <li><m> \displaystyle \int_{ 5 }^{ 10 }p_{ 2 }(x)dx = \frac{25325}{72}</m>.</li>
+            </ol>
+    </answer>
+</exercise>

@@ -1,0 +1,27 @@
+<exercise checkit-seed="0001" checkit-slug="CO2" checkit-title="Parametric/vector derivatives">
+    <statement>
+        <p>
+            Given the vector equation <m>\hat{ g }(t)=\langle -2 \, t^{3} - 5, -2 \, t^{2} + t - 4 \rangle</m>:
+            
+            <ol>
+                <li>Find <m>\frac{dx}{dt}, \frac{dy}{dt}</m>.</li>
+                <li>Find <m>\frac{dy}{dx}</m>.</li>
+                <li>Find the point, tangent slope, and tangent line equation corresponding to the parameter  <m>t=-1</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li><m>\frac{dx}{dt}=-6 \, t^{2}, \frac{dy}{dt}=-4 \, t + 1</m>.</li>
+                <li><m>\frac{dy}{dx}=\frac{ -4 \, t + 1 }{ -6 \, t^{2} }</m>.</li>
+                <li>
+                    <ul>
+                        <li>Point: <m>(-3, -7).</m></li>
+                        <li>Slope: <m>m=-\frac{5}{6}.</m></li>
+                        <li>Tangent line: <m>y=-\frac{5}{6} \, x - \frac{19}{2}.</m></li>
+                    </ul>
+                </li>
+            </ol>
+    </answer>
+</exercise>

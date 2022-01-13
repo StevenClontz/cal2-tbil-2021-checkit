@@ -1,0 +1,21 @@
+<exercise checkit-seed="0005" checkit-slug="PS3" checkit-title="Manipulation of power series">
+    <statement>
+        <p>
+            Recall that the power series for <m>f(x)=\sin\left(x\right)</m> is: <me>\sin\left(x\right)=\sum_{n=0}^{\infty} \frac{\left(-1\right)^{n} x^{2 \, n + 1}}{\left(2 \, n + 1\right)!}.</me>
+            
+            <ol>
+                <li>Find a power series for <m>\sin\left(-5 \, x^{4}\right)</m>.</li>
+                <li>Find a power series for <m>x^{3} \sin\left(x\right)</m>.</li>
+                <li>Find a power series for <m>f'(x)</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li><m>\displaystyle \sin\left(-5 \, x^{4}\right) = \sum_{n=0}^{\infty}\frac{\left(-1\right)^{n} \left(-5 \, x^{4}\right)^{2 \, n + 1}}{\left(2 \, n + 1\right)!}</m>.</li>
+                <li><m>\displaystyle x^{3} \sin\left(x\right) = \sum_{n= 0 }^{\infty}\frac{\left(-1\right)^{n} x^{2 \, n + 4}}{\left(2 \, n + 1\right)!}</m>.</li>
+                <li><m>\displaystyle f'(x)=\sum_{n=0}^{\infty}\frac{\left(-1\right)^{n} x^{2 \, n}}{\left(2 \, n\right)!}</m>.</li>
+            </ol>
+    </answer>
+</exercise>

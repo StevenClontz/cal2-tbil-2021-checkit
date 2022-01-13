@@ -1,0 +1,39 @@
+<exercise checkit-seed="0000" checkit-slug="TI1" checkit-title="Substitution method">
+    <statement>
+        <ol>
+            <li>
+                <p>
+                    Explain how to find the anti-derivative of <m>f(x)=e^{\left(-\frac{1}{2} \, x\right)}</m>.
+                    
+                </p>
+                
+            </li>
+            <li>
+                <p>
+                    Explain how to evaluate the following definite integral:
+                    <me>
+                        \int_{ 4 }^{ 8 } e^{\left(4 \, x\right)} dx.
+                    </me>
+                </p>
+            </li>
+        </ol>
+        
+        
+    </statement>
+    <answer>
+        <ol>
+            <li>
+                <p>
+                    <m>\displaystyle \int e^{\left(-\frac{1}{2} \, x\right)} dx=-2 \, e^{\left(-\frac{1}{2} \, x\right)}+C.</m>
+                </p>
+                
+            </li>
+            <li>
+                <p>
+                    <m>\displaystyle \int_{ 4 }^{ 8 } e^{\left(4 \, x\right)} dx = \frac{1}{4} \, e^{32} - \frac{1}{4} \, e^{16}.</m>
+                </p>
+                
+            </li>
+        </ol>
+    </answer>
+</exercise>

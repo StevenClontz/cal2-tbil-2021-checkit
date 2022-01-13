@@ -1,0 +1,15 @@
+<exercise checkit-seed="0001" checkit-slug="SQ4" checkit-title="Geometric summations">
+    <statement>
+        <p>
+            Find the limit of the following series.
+        </p>
+        <me>
+            4 + \sum_{n = 2 }^\infty -3\cdot\left(-\frac{1}{5}\right)^n.
+        </me>
+    </statement>
+    <answer>
+        <me>
+            4 + \sum_{n = 2 }^\infty -3\cdot\left(-\frac{1}{5}\right)^n=\frac{39}{10}.
+        </me>
+    </answer>
+</exercise>

@@ -1,0 +1,25 @@
+<exercise checkit-seed="0009" checkit-slug="CO4" checkit-title="Polar coordinates">
+    <statement>
+        <p>
+            <ol>
+                <li>
+                    Convert the following rectangular equation to a polar equation: <m>y=2 \, x.</m>
+                </li>
+                <li>
+                    Convert the following polar equation to a rectangular equation: <m>r=-3 \, \cos\left({\theta}\right).</m>
+                </li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li>
+                    <m>{\theta}=\arctan\left(2\right).</m>
+                </li>
+                <li>
+                    <m>{\left(x + 3\right)}^{2} + y^{2}=9.</m>
+                </li>
+            </ol>
+    </answer>
+</exercise>

@@ -1,0 +1,13 @@
+<exercise checkit-seed="0007" checkit-slug="TI3" checkit-title="Integration of Trignometry">
+    <statement>
+        <p>
+            Evaluate <m>\displaystyle \int 5 \, \cos\left(x\right)^{3} \sin\left(x\right)^{10} dx</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <m>-\frac{5}{13} \, \sin\left(x\right)^{13} + \frac{5}{11} \, \sin\left(x\right)^{11}+C</m>.
+        </p>
+    </answer>
+</exercise>

@@ -1,0 +1,16 @@
+<exercise checkit-seed="0008" checkit-slug="CO1" checkit-title="Parametric/vector equations">
+    <statement>
+        <p>
+            Given the vector equation <m>\hat{ g }(t)=\langle -3 \, \cos\left(t\right) - 3, \frac{5}{2} \, t + 1 \rangle</m>:
+            
+            <ol>
+                <li>Write this equation as parametric equations .</li>
+                <li>Sketch the graph of the corresponding curve.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <m>x(t)=-3 \, \cos\left(t\right) - 3, y(t)=\frac{5}{2} \, t + 1</m>.
+    </answer>
+</exercise>

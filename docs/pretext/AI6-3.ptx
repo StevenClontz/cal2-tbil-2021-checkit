@@ -1,0 +1,22 @@
+<exercise checkit-seed="0003" checkit-slug="AI6" checkit-title="Physics Applications">
+
+
+
+
+            <statement>
+                <p>
+                    Suppose a  well filled with water has height 35 meters and radius 5 meters.  Find an integral which computes how much work is needed to pump all the water out of the well.  Recall that the acceleration of gravity is 9.8 m<m>/\text{s}^2</m> and the density of water is <m>1000\text{kg}/\text{m}^3</m>.
+                </p>
+            </statement>
+            <answer>
+                <p>
+                    <me>\int_0^{ 35 } 9.8\cdot 1000 \left(5\right)^2\cdot(35-h )dh\  \text{Nm}.</me>
+                </p>
+            </answer>
+
+    
+    
+    
+
+    
+</exercise>

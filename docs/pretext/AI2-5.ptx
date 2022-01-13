@@ -1,0 +1,96 @@
+<exercise checkit-seed="0005" checkit-slug="AI2" checkit-title="Arc Length">
+    <statement>
+        <p>
+            Consider the curve <m>y=-3 \, x^{3}</m> defined on <m>[0, 1]</m>.
+            <ol>
+                <li>
+                    Estimate the arclength of this curve with <m>5</m> line segments with <m>\Delta x = 0.2</m>.
+                </li>
+                <li>
+                    Find an integral that computes the arclength of this curve.
+                </li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <ol>
+                <li>
+                    <me>
+               \begin{array}{|c|c|c|c|c|}
+              \hline
+              x_i
+              &amp;
+              x_{i+1}
+              &amp;
+              f(x_{i})
+              &amp;
+              f(x_{i+1})
+              &amp;
+              \text{Length of segment}          
+              \\
+              \hline
+               0
+              &amp; 
+               0.2
+              &amp;
+               0.0
+              &amp; 
+               -0.024
+              &amp;
+               0.2014         
+                  \\
+               0.2
+              &amp; 
+               0.4
+              &amp;
+               -0.024
+              &amp; 
+               -0.192
+              &amp;
+               0.2612         
+                  \\
+               0.4
+              &amp; 
+               0.6000000000000001
+              &amp;
+               -0.192
+              &amp; 
+               -0.648
+              &amp;
+               0.4979         
+                  \\
+               0.6
+              &amp; 
+               0.8
+              &amp;
+               -0.648
+              &amp; 
+               -1.536
+              &amp;
+               0.9102         
+                  \\
+               0.8
+              &amp; 
+               1.0
+              &amp;
+               -1.536
+              &amp; 
+               -3.0
+              &amp;
+               1.4776         
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+              The estimated length of this curve is 3.3483.      
+                </li>
+                <li>
+                    The arclength is computed via <me>\int_{ 0 }^{ 1 }\sqrt{1+ \left(-9 \, x^{2}\right)^2}dx.</me> 
+                </li>
+            </ol>
+        </p>
+    </answer>
+</exercise>

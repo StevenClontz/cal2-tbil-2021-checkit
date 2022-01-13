@@ -1,0 +1,16 @@
+<exercise checkit-seed="0006" checkit-slug="CO1" checkit-title="Parametric/vector equations">
+    <statement>
+        <p>
+            Given the vector equation <m>\hat{ z }(t)=\langle \frac{4}{3} \, t + 5, -\frac{3}{5} \cdot 3^{t} \rangle</m>:
+            
+            <ol>
+                <li>Write this equation as parametric equations .</li>
+                <li>Sketch the graph of the corresponding curve.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <m>x(t)=\frac{4}{3} \, t + 5, y(t)=-\frac{3}{5} \cdot 3^{t}</m>.
+    </answer>
+</exercise>

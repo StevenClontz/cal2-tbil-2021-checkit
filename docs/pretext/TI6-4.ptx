@@ -1,0 +1,11 @@
+<exercise checkit-seed="0004" checkit-slug="TI6" checkit-title="Partial fractions">
+    <statement>
+        
+        <p>
+            Consider the partial fraction decomposition <me> -\frac{x - 6}{x^{2} + 3 \, x - 4}=-\frac{2}{x + 4} + \frac{1}{x - 1}.</me>  Use this decmposition to compute <m>\displaystyle\int -\frac{x - 6}{x^{2} + 3 \, x - 4}dx</m>.
+        </p>
+    </statement>
+    <answer>
+        <me>\displaystyle\int -\frac{x - 6}{x^{2} + 3 \, x - 4}dx=\displaystyle\int -\frac{2}{x + 4} + \frac{1}{x - 1}dx=-2 \, \log\left(x + 4\right) + \log\left(x - 1\right)+C.</me>
+    </answer>
+</exercise>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+    <statement>
+        <p>
+            Given the vector equation <m>\hat{ {{name}} }(t)=\langle {{xt}}, {{yt}} \rangle</m>:
+            
+            <ol>
+                <li>Write this equation as parametric equations .</li>
+                <li>Sketch the graph of the corresponding curve.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <m>x(t)={{xt}}, y(t)={{yt}}</m>.
+    </answer>
+</exercise>

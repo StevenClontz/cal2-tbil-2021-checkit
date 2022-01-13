@@ -1,0 +1,47 @@
+<exercise checkit-seed="0002" checkit-slug="SQ2" checkit-title="Sequence properties and limits">
+    <statement>
+        <p>
+            For each of the following sequences, determine which of the properties: <em>monotonic</em>, <em>bounded</em> and <em>convergent</em>, the sequence satisfies.  If a sequence is convergent, determine to what it converges.
+        </p>
+        <ol>
+            <li>
+                <m>\displaystyle \left\{ \frac{5 \, n}{n^{2} + 4} \right\}_{n=0}^\infty</m>.
+            </li>            
+            <li>
+                <m>\displaystyle \left\{ 4 \cdot 3^{n} \right\}_{n=0}^\infty</m>.
+            </li>            
+        </ol>
+    </statement>
+    <answer>
+       <ol>
+            <li>
+                <ol>
+                    <li>
+                        The sequence is not monotonic.                
+                    </li>
+                    <li>
+                        The sequence is bounded.                
+                    </li>
+                    <li>
+                        The sequence converges to <m>0</m>.                
+                    </li>
+                </ol>
+                
+            </li>            
+            <li>
+                <ol>
+                    <li>
+                        The sequence is monotonic.                
+                    </li>
+                    <li>
+                        The sequence is not bounded.                
+                    </li>
+                    <li>
+                        The sequence does not converge.                
+                    </li>
+                </ol>
+                
+            </li>            
+        </ol>
+    </answer>
+</exercise>

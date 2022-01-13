@@ -1,0 +1,24 @@
+<exercise checkit-seed="0000" checkit-slug="TI7" checkit-title="Integration strategy">
+    <statement>
+        <p>
+            For each of the following integrals, describe which strategy you would use to integrate it, and why that is the best choice.  (You do <em>not</em> need to actually compute the integral.)
+            <ol>
+                <li><m>\displaystyle \int \sqrt{x^{2} - 1}dx</m>.</li>
+                <li><m>\displaystyle \int -x^{7} \sin\left(x\right)dx</m>.</li>
+                <li><m>\displaystyle \int e^{\left(-\frac{1}{2} \, x\right)}dx</m>.</li>
+                <li><m>\displaystyle \int -\frac{x + 11}{{\left(x - 1\right)} {\left(x - 5\right)}}dx</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <ol>
+                <li>Trigonometric substitution.</li>
+                <li>Integration by parts.</li>
+                <li>Substitution.</li>
+                <li>Partial fractions.</li>
+            </ol>
+        </p>
+    </answer>
+</exercise>

@@ -1,0 +1,11 @@
+<exercise checkit-seed="0008" checkit-slug="TI6" checkit-title="Partial fractions">
+    <statement>
+        
+        <p>
+            Consider the partial fraction decomposition <me> \frac{4 \, {\left(x^{2} - x - 3\right)}}{x^{3} + 4 \, x^{2} + x + 4}=-\frac{4}{x^{2} + 1} + \frac{4}{x + 4}.</me>  Use this decmposition to compute <m>\displaystyle\int \frac{4 \, {\left(x^{2} - x - 3\right)}}{x^{3} + 4 \, x^{2} + x + 4}dx</m>.
+        </p>
+    </statement>
+    <answer>
+        <me>\displaystyle\int \frac{4 \, {\left(x^{2} - x - 3\right)}}{x^{3} + 4 \, x^{2} + x + 4}dx=\displaystyle\int -\frac{4}{x^{2} + 1} + \frac{4}{x + 4}dx=-4 \, \arctan\left(x\right) + 4 \, \log\left(x + 4\right)+C.</me>
+    </answer>
+</exercise>

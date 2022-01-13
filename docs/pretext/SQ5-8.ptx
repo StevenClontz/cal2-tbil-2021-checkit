@@ -1,0 +1,40 @@
+<exercise checkit-seed="0008" checkit-slug="SQ5" checkit-title="Basic convergence tests">
+    <statement>
+        <p>
+            For each of the following series, use the <em>Divergence</em>, <em>Alternating Summation</em> or <em>Integral</em> test to determine if the series converges.
+        </p>
+        <ol>
+            <li>
+                <m>\displaystyle \sum_{n=1}^\infty \frac{4 \, \left(-1\right)^{n + 1}}{3 \, n}.</m>
+            </li>            
+            <li>
+                <m>\displaystyle \sum_{n=1}^\infty \frac{1}{n^{\frac{1}{5}}}.</m>
+            </li>            
+            <li>
+                <m>\displaystyle \sum_{n=1}^\infty \frac{2 \, n^{5} + 5 \, n^{4}}{4 \, {\left(n^{5} + 1\right)}}.</m>
+            </li>            
+        </ol>
+    </statement>
+    <answer>
+       <ol>
+            <li>
+                
+                        <m>\displaystyle \sum_{n=1}^\infty \frac{4 \, \left(-1\right)^{n + 1}}{3 \, n}</m> converges by the <em>Alternating Summation</em> test.                
+                   
+                
+            </li>            
+            <li>
+                
+                        <m>\displaystyle \sum_{n=1}^\infty \frac{1}{n^{\frac{1}{5}}}</m> diverges by the <em>Integral</em> test.               
+                   
+                
+            </li>            
+            <li>
+                
+                        <m>\displaystyle \sum_{n=1}^\infty \frac{2 \, n^{5} + 5 \, n^{4}}{4 \, {\left(n^{5} + 1\right)}}</m> diverges by the <em>Divergence</em> test.               
+                   
+                
+            </li>            
+        </ol>
+    </answer>
+</exercise>

@@ -1,0 +1,13 @@
+<exercise checkit-seed="0003" checkit-slug="CO5" checkit-title="Polar arclength">
+    <statement>
+        <p>
+            Find an integral computing the arclength of the polar curved defined by <m>r=4 \, \sin\left({\theta}\right) - 4</m> on <m>\frac{1}{6} \, \pi\leq \theta \leq \frac{1}{3} \, \pi</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <m>\displaystyle \int_{ \frac{1}{6} \, \pi }^{ \frac{1}{3} \, \pi }\sqrt{\left(4 \, \cos\left({\theta}\right)\right)^2+\left(4 \, \sin\left({\theta}\right) - 4\right)^2 } d\theta</m>.
+        </p>
+    </answer>
+</exercise>

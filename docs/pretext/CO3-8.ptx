@@ -1,0 +1,11 @@
+<exercise checkit-seed="0008" checkit-slug="CO3" checkit-title="Parametric/vector arclength">
+    <statement>
+        <p>
+            Given the vector equation <m>\hat{ g }(t)=\langle -3 \, \cos\left(t\right) + 5, \sin\left(t\right) - 1 \rangle</m>, write a definite integral which computes the length of the curve defined by <m>-3\leq t \leq 5</m>.
+        </p>
+        
+    </statement>
+    <answer>
+            <m>\displaystyle \int_{ -3 }^{ 5 } \sqrt{ \left( 3 \, \sin\left(t\right)\right)^2+\left( \cos\left(t\right)\right)^2} dt</m>.
+    </answer>
+</exercise>

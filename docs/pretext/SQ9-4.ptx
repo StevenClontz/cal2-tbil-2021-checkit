@@ -1,0 +1,31 @@
+<exercise checkit-seed="0004" checkit-slug="SQ9" checkit-title="Summation convergence strategy">
+    <statement>
+        <p>
+            Determine which of the following series is <em>convergent</em> and which is <em>divergent</em>.  Justify both choices with an appropriate test.
+        </p>
+        <ol>
+            <li>
+                <m>\displaystyle \sum_{n=1}^\infty \frac{2^{n}}{3 \, n + 5}.</m>
+            </li>            
+            <li>
+                <m>\displaystyle \sum_{n=1}^\infty 4 \, \left(\frac{2}{7}\right)^{n}.</m>
+            </li>            
+        </ol>
+    </statement>
+    <answer>
+       <ol>
+            <li>
+                
+                        <m>\displaystyle \sum_{n=1}^\infty \frac{2^{n}}{3 \, n + 5}</m> is divergent.               
+                    
+                
+            </li>            
+            <li>
+                
+                        <m>\displaystyle \sum_{n=1}^\infty 4 \, \left(\frac{2}{7}\right)^{n}</m> is convergent.                
+                    
+                
+            </li>            
+        </ol>
+    </answer>
+</exercise>

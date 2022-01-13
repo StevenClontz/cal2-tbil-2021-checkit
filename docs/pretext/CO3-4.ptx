@@ -1,0 +1,11 @@
+<exercise checkit-seed="0004" checkit-slug="CO3" checkit-title="Parametric/vector arclength">
+    <statement>
+        <p>
+            Given the vector equation <m>\hat{ v }(t)=\langle \frac{5}{3} \, t - 3, -2 \, \cos\left(t\right) + 4 \rangle</m>, write a definite integral which computes the length of the curve defined by <m>2\leq t \leq 7</m>.
+        </p>
+        
+    </statement>
+    <answer>
+            <m>\displaystyle \int_{ 2 }^{ 7 } \sqrt{ \left( \frac{5}{3}\right)^2+\left( 2 \, \sin\left(t\right)\right)^2} dt</m>.
+    </answer>
+</exercise>

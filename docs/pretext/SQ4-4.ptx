@@ -1,0 +1,15 @@
+<exercise checkit-seed="0004" checkit-slug="SQ4" checkit-title="Geometric summations">
+    <statement>
+        <p>
+            Find the limit of the following series.
+        </p>
+        <me>
+            -2 + \sum_{n = 3 }^\infty 2\cdot\left(-\frac{1}{4}\right)^n.
+        </me>
+    </statement>
+    <answer>
+        <me>
+            -2 + \sum_{n = 3 }^\infty 2\cdot\left(-\frac{1}{4}\right)^n=-\frac{81}{40}.
+        </me>
+    </answer>
+</exercise>

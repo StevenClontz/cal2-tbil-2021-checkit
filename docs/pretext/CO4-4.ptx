@@ -1,0 +1,25 @@
+<exercise checkit-seed="0004" checkit-slug="CO4" checkit-title="Polar coordinates">
+    <statement>
+        <p>
+            <ol>
+                <li>
+                    Convert the following rectangular equation to a polar equation: <m>{\left(x + 5\right)}^{2} + y^{2}=25.</m>
+                </li>
+                <li>
+                    Convert the following polar equation to a rectangular equation: <m>{\theta}=-\frac{1}{4} \, \pi.</m>
+                </li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li>
+                    <m>r=-5 \, \cos\left({\theta}\right).</m>
+                </li>
+                <li>
+                    <m>y=-1.</m>
+                </li>
+            </ol>
+    </answer>
+</exercise>

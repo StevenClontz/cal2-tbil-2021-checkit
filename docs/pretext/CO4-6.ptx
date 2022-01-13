@@ -1,0 +1,25 @@
+<exercise checkit-seed="0006" checkit-slug="CO4" checkit-title="Polar coordinates">
+    <statement>
+        <p>
+            <ol>
+                <li>
+                    Convert the following rectangular equation to a polar equation: <m>y=-4 \, x.</m>
+                </li>
+                <li>
+                    Convert the following polar equation to a rectangular equation: <m>r=\sin\left({\theta}\right).</m>
+                </li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li>
+                    <m>{\theta}=-\arctan\left(4\right).</m>
+                </li>
+                <li>
+                    <m>x^{2} + {\left(y - 1\right)}^{2}=1.</m>
+                </li>
+            </ol>
+    </answer>
+</exercise>

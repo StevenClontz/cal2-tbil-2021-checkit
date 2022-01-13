@@ -1,0 +1,31 @@
+<exercise checkit-seed="0004" checkit-slug="SQ8" checkit-title="Absolute convergence">
+    <statement>
+        <p>
+            For each of the following series, determine if the series is <em>convergent</em>, and if the series is  <em>absolutely convergent</em>.
+        </p>
+        <ol>
+            <li>
+                <m>\displaystyle \sum_{n=1}^\infty \frac{4 \, \left(-1\right)^{n + 1} n^{3}}{3 \, n^{4} + 5 \, n^{2}}.</m>
+            </li>            
+            <li>
+                <m>\displaystyle \sum_{n=1}^\infty \frac{{\left(3 \, n^{3} + n^{2} + 4 \, n\right)} \left(-1\right)^{n}}{4 \cdot 3^{n}}.</m>
+            </li>            
+        </ol>
+    </statement>
+    <answer>
+       <ol>
+            <li>
+                
+                        <m>\displaystyle \sum_{n=1}^\infty \frac{4 \, \left(-1\right)^{n + 1} n^{3}}{3 \, n^{4} + 5 \, n^{2}}</m> converges but is not absolutely convergent.               
+                    
+                
+            </li>            
+            <li>
+                
+                        <m>\displaystyle \sum_{n=1}^\infty \frac{{\left(3 \, n^{3} + n^{2} + 4 \, n\right)} \left(-1\right)^{n}}{4 \cdot 3^{n}}</m> converges  and is absolutely convergent.                
+                    
+                
+            </li>            
+        </ol>
+    </answer>
+</exercise>

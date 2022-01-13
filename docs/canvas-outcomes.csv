@@ -1,0 +1,34 @@
+vendor_guid,object_type,title,description,display_name,calculation_method,calculation_int,mastery_points,ratings
+checkit_tbil-calc-2_00_TI1_1642103359.8667548,outcome,00-TI1: Substitution method,,TI1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_01_TI2_1642103359.8667548,outcome,01-TI2: Integration by parts,,TI2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_02_TI3_1642103359.8667548,outcome,02-TI3: Integration of Trignometry,,TI3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_03_TI4_1642103359.8667548,outcome,03-TI4: Trigonometric Substitution,,TI4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_04_TI5_1642103359.8667548,outcome,04-TI5: Table of Integrals,,TI5,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_05_TI6_1642103359.8667548,outcome,05-TI6: Partial fractions,,TI6,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_06_TI7_1642103359.8667548,outcome,06-TI7: Integration strategy,,TI7,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_07_TI8_1642103359.8667548,outcome,07-TI8: Improper integrals,,TI8,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_08_AI1_1642103359.8667548,outcome,08-AI1: Average Values,,AI1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_09_AI2_1642103359.8667548,outcome,09-AI2: Arc Length,,AI2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_10_AI3_1642103359.8667548,outcome,10-AI3: Volumes of Revolution,,AI3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_11_AI4_1642103359.8667548,outcome,11-AI4: Areas of Revolution,,AI4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_12_AI5_1642103359.8667548,outcome,"12-AI5: Density, Mass, Centers of Mass",,AI5,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_13_AI6_1642103359.8667548,outcome,13-AI6: Physics Applications,,AI6,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_14_CO1_1642103359.8667548,outcome,14-CO1: Parametric/vector equations,,CO1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_15_CO2_1642103359.8667548,outcome,15-CO2: Parametric/vector derivatives,,CO2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_16_CO3_1642103359.8667548,outcome,16-CO3: Parametric/vector arclength,,CO3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_17_CO4_1642103359.8667548,outcome,17-CO4: Polar coordinates,,CO4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_18_CO5_1642103359.8667548,outcome,18-CO5: Polar arclength,,CO5,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_19_CO6_1642103359.8667548,outcome,19-CO6: Polar area,,CO6,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_20_SQ1_1642103359.8667548,outcome,20-SQ1: Sequence formulas,,SQ1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_21_SQ2_1642103359.8667548,outcome,21-SQ2: Sequence properties and limits,,SQ2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_22_SQ3_1642103359.8667548,outcome,22-SQ3: Partial sum sequence,,SQ3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_23_SQ4_1642103359.8667548,outcome,23-SQ4: Geometric summations,,SQ4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_24_SQ5_1642103359.8667548,outcome,24-SQ5: Basic convergence tests,,SQ5,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_25_SQ6_1642103359.8667548,outcome,25-SQ6: Comparison tests,,SQ6,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_26_SQ7_1642103359.8667548,outcome,26-SQ7: Ratio and Root tests,,SQ7,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_27_SQ8_1642103359.8667548,outcome,27-SQ8: Absolute convergence,,SQ8,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_28_SQ9_1642103359.8667548,outcome,28-SQ9: Summation convergence strategy,,SQ9,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_29_PS1_1642103359.8667548,outcome,29-PS1: Power series,,PS1,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_30_PS2_1642103359.8667548,outcome,30-PS2: Domain of power series,,PS2,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_31_PS3_1642103359.8667548,outcome,31-PS3: Manipulation of power series,,PS3,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess
+checkit_tbil-calc-2_32_PS4_1642103359.8667548,outcome,32-PS4: Taylor series,,PS4,n_mastery,2,3,4,Exceeds Mastery,3,Meets Mastery,2,Near Mastery,1,Well Below Mastery,0,Insufficient Work to Assess

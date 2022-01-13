@@ -1,0 +1,13 @@
+<exercise checkit-seed="0002" checkit-slug="TI3" checkit-title="Integration of Trignometry">
+    <statement>
+        <p>
+            Evaluate <m>\displaystyle \int 2 \, \cos\left(x\right)^{12} \sin\left(x\right)^{3} dx</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <m>\frac{2}{15} \, \cos\left(x\right)^{15} - \frac{2}{13} \, \cos\left(x\right)^{13}+C</m>.
+        </p>
+    </answer>
+</exercise>

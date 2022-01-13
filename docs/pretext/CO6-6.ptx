@@ -1,0 +1,13 @@
+<exercise checkit-seed="0006" checkit-slug="CO6" checkit-title="Polar area">
+    <statement>
+        <p>
+            Find an integral computing the area of the region defined by <m>0\leq r\leq4 \, \sin\left({\theta}\right) + 7</m> and <m>\frac{2}{3} \, \pi\leq \theta \leq \frac{4}{3} \, \pi</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <m>\displaystyle \frac{1}{2}\int_{ \frac{2}{3} \, \pi }^{ \frac{4}{3} \, \pi }\left(4 \, \sin\left({\theta}\right) + 7\right)^2 d\theta</m>.
+        </p>
+    </answer>
+</exercise>

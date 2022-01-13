@@ -1,0 +1,13 @@
+<exercise checkit-seed="0007" checkit-slug="AI1" checkit-title="Average Values">
+    <statement>
+        <p>
+            Find an integral that computes the average value of <m>f(x)=4 \, x^{2} - x - 5 \, \sin\left(\frac{5}{2} \, \pi x\right) + 2</m> over the interval <m>[3, 4]</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            The average value of <m>f(x)=4 \, x^{2} - x - 5 \, \sin\left(\frac{5}{2} \, \pi x\right) + 2</m> over the interval <m>[3, 4]</m> is <me>\frac{1}{ 4-3 } \int_{ 3 }^{ 4 } 4 \, x^{2} - x - 5 \, \sin\left(\frac{5}{2} \, \pi x\right) + 2dx= \frac{287 \, \pi + 12}{6 \, \pi}.</me>
+        </p>
+    </answer>
+</exercise>

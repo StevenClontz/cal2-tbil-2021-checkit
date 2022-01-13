@@ -1,0 +1,15 @@
+<exercise checkit-seed="0000" checkit-slug="SQ4" checkit-title="Geometric summations">
+    <statement>
+        <p>
+            Find the limit of the following series.
+        </p>
+        <me>
+            1 + \sum_{n = 1 }^\infty -3\cdot\left(-\frac{2}{3}\right)^n.
+        </me>
+    </statement>
+    <answer>
+        <me>
+            1 + \sum_{n = 1 }^\infty -3\cdot\left(-\frac{2}{3}\right)^n=\frac{11}{5}.
+        </me>
+    </answer>
+</exercise>

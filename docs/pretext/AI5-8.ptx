@@ -1,0 +1,28 @@
+<exercise checkit-seed="0008" checkit-slug="AI5" checkit-title="Density, Mass, Centers of Mass">
+    <statement>
+        <p>
+            Consider a pyramid  that has square base with side length 8 meters, and height 25 meters.  Suppose that at height <m>h</m> meters the density of this pyramid is <m>\delta(h)=\frac{3}{4} \, h + 4\ \text{kg}/\text{ m }^3 </m>.
+            
+            <ol>
+                <li>
+                    Find an integral which computes the mass of this pyramid.
+                </li>
+                
+                <li>
+                    Find an expression involving integrals which computes the height of the center of mass for this pyramid.
+                </li>
+            
+            </ol>
+            
+            
+            
+        </p>
+        
+    </statement>
+    <answer>
+        <ol>
+            <li><me>\int_{ 0 }^{ 25 } \left(\frac{64}{625} \, {\left(h - 25\right)}^{2}\right)\left(\frac{3}{4} \, h + 4\right) dh.</me></li>
+            <li><me>\frac{\displaystyle\int_{ 0 }^{ 25 } h\left(\frac{64}{625} \, {\left(h - 25\right)}^{2}\right)\left(\frac{3}{4} \, h + 4\right) dh}{\displaystyle\int_{ 0 }^{ 25 } \left(\frac{64}{625} \, {\left(h - 25\right)}^{2}\right)\left(\frac{3}{4} \, h + 4\right) dh}.</me></li>
+        </ol>
+    </answer>
+</exercise>

@@ -1,0 +1,22 @@
+<exercise checkit-seed="0009" checkit-slug="AI6" checkit-title="Physics Applications">
+
+
+
+    
+    
+    
+
+
+            <statement>
+                <p>
+                    Suppose a  trapezoidal dam has height 30 feet, top width of 70 feet and bottom width of 35 feet.  Water is pressed against the entire surface of the dam. Find an integral which computes the force exerted against this dam. Recall that the pressure of water at depth <m>h</m> feet  is <m>62.4</m> pounds per cubic foot. 
+                </p>
+            </statement>
+            <answer>
+                <p>
+                    <me>\int_0^{ 30 } 62.4h\left( -\frac{7}{6} \, h + 70 \right)dh\  \text{lbs}.</me>
+                </p>
+            </answer>
+
+    
+</exercise>

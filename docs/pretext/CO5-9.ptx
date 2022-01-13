@@ -1,0 +1,13 @@
+<exercise checkit-seed="0009" checkit-slug="CO5" checkit-title="Polar arclength">
+    <statement>
+        <p>
+            Find an integral computing the arclength of the polar curved defined by <m>r=4 \, \cos\left({\theta}\right) + 3</m> on <m>\frac{2}{3} \, \pi\leq \theta \leq \frac{4}{3} \, \pi</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <m>\displaystyle \int_{ \frac{2}{3} \, \pi }^{ \frac{4}{3} \, \pi }\sqrt{\left(-4 \, \sin\left({\theta}\right)\right)^2+\left(4 \, \cos\left({\theta}\right) + 3\right)^2 } d\theta</m>.
+        </p>
+    </answer>
+</exercise>

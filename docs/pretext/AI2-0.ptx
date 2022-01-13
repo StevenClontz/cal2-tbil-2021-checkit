@@ -1,0 +1,86 @@
+<exercise checkit-seed="0000" checkit-slug="AI2" checkit-title="Arc Length">
+    <statement>
+        <p>
+            Consider the curve <m>y=\sqrt{x + 5}</m> defined on <m>[1, 2]</m>.
+            <ol>
+                <li>
+                    Estimate the arclength of this curve with <m>4</m> line segments with <m>\Delta x = 0.25</m>.
+                </li>
+                <li>
+                    Find an integral that computes the arclength of this curve.
+                </li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <ol>
+                <li>
+                    <me>
+               \begin{array}{|c|c|c|c|c|}
+              \hline
+              x_i
+              &amp;
+              x_{i+1}
+              &amp;
+              f(x_{i})
+              &amp;
+              f(x_{i+1})
+              &amp;
+              \text{Length of segment}          
+              \\
+              \hline
+               1
+              &amp; 
+               1.25
+              &amp;
+               2.4495
+              &amp; 
+               2.5
+              &amp;
+               0.2551         
+                  \\
+               1.25
+              &amp; 
+               1.5
+              &amp;
+               2.5
+              &amp; 
+               2.5495
+              &amp;
+               0.2549         
+                  \\
+               1.5
+              &amp; 
+               1.75
+              &amp;
+               2.5495
+              &amp; 
+               2.5981
+              &amp;
+               0.2547         
+                  \\
+               1.75
+              &amp; 
+               2.0
+              &amp;
+               2.5981
+              &amp; 
+               2.6458
+              &amp;
+               0.2545         
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+              The estimated length of this curve is 1.0191999999999999.      
+                </li>
+                <li>
+                    The arclength is computed via <me>\int_{ 1 }^{ 2 }\sqrt{1+ \left(\frac{1}{2 \, \sqrt{x + 5}}\right)^2}dx.</me> 
+                </li>
+            </ol>
+        </p>
+    </answer>
+</exercise>

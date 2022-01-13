@@ -1,0 +1,13 @@
+<exercise checkit-seed="0001" checkit-slug="AI1" checkit-title="Average Values">
+    <statement>
+        <p>
+            Find an integral that computes the average value of <m>f(x)=-3 \, x^{2} + x + \sin\left(-\frac{5}{4} \, \pi x\right) - 1</m> over the interval <m>[2, 6]</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            The average value of <m>f(x)=-3 \, x^{2} + x + \sin\left(-\frac{5}{4} \, \pi x\right) - 1</m> over the interval <m>[2, 6]</m> is <me>\frac{1}{ 6-2 } \int_{ 2 }^{ 6 } -3 \, x^{2} + x + \sin\left(-\frac{5}{4} \, \pi x\right) - 1dx= -49.</me>
+        </p>
+    </answer>
+</exercise>

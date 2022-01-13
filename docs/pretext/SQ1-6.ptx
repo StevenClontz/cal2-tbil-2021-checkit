@@ -1,0 +1,55 @@
+<exercise checkit-seed="0006" checkit-slug="SQ1" checkit-title="Sequence formulas">
+    <statement>
+        <ol>
+            <li>
+                Find the first 5 terms of the following sequence:
+                <ul>
+                    <li><m>a_n=5 \, n^{2} + 4.</m></li>
+                    ,
+                </ul>
+            </li>
+            <li>
+                Find a closed form for the following sequence:
+                <ul>
+                    <li><m>4, -\frac{4}{3}, \frac{4}{9}, -\frac{4}{27}, \frac{4}{81},\ldots</m></li>
+                    ,
+                </ul>
+            </li>
+            <li>
+                Find a recursive form for the following sequence:
+                <ul>
+                    <li><m>-4, -8, -12, -16, -20,\ldots</m></li>
+                    ,
+                </ul>
+            </li>
+            
+            
+        </ol>
+    </statement>
+    <answer>
+        <ol>
+            <li>
+                <ul>
+                    <li><m>9, 24, 49, 84, 129</m> if you start with <m> n=1</m>, or <m>4, 9, 24, 49, 84</m> if you start with <m> n=0</m>.</li>
+                    ,
+                </ul>
+            </li>
+            
+            <li>
+                <ul>
+                    <li>Answers can vary depending on your choice of starting index.  For example, <m>4 \, \left(-\frac{1}{3}\right)^{n}</m> if <m> n=0,1,...</m>.</li>
+                    ,
+                </ul>
+            </li>
+            
+            <li>
+                <ul>
+                    <li>Answers can vary depending on your choice of starting index.  For example, if <m>a_0=-4</m> then <m>a_n=1a_{n-1}+-4</m>.</li>
+                    ,
+                </ul>
+            </li>
+            
+           
+        </ol>
+    </answer>
+</exercise>

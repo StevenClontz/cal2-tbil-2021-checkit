@@ -1,0 +1,13 @@
+<exercise checkit-seed="0004" checkit-slug="CO6" checkit-title="Polar area">
+    <statement>
+        <p>
+            Find an integral computing the area of the region defined by <m>0\leq r\leq-5 \, \cos\left({\theta}\right) + 7</m> and <m>\frac{1}{6} \, \pi\leq \theta \leq \frac{1}{2} \, \pi</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <m>\displaystyle \frac{1}{2}\int_{ \frac{1}{6} \, \pi }^{ \frac{1}{2} \, \pi }\left(-5 \, \cos\left({\theta}\right) + 7\right)^2 d\theta</m>.
+        </p>
+    </answer>
+</exercise>

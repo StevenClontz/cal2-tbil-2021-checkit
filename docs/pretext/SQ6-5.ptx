@@ -1,0 +1,26 @@
+<exercise checkit-seed="0005" checkit-slug="SQ6" checkit-title="Comparison tests">
+    <statement>
+        <p>
+            For each of the following series, determine if it converges or diverges, and explain your choice.
+            <ol>
+                <li>
+                    <m>\displaystyle \sum_{n= 3 }^\infty \frac{1}{\log\left(n\right) + 4}.</m>
+                </li>
+                <li>
+                    <m>\displaystyle \sum_{n= 5 }^\infty \frac{1}{2^{n} + 1}.</m>
+                </li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+        <ol>
+                <li>
+                        <m>\displaystyle \sum_{n= 3 }^\infty \frac{1}{\log\left(n\right) + 4}</m> diverges.
+                </li>
+                <li>
+                        <m>\displaystyle \sum_{n= 5 }^\infty \frac{1}{2^{n} + 1}</m> converges.
+                </li>
+            </ol>
+    </answer>
+</exercise>

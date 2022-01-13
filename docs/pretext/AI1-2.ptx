@@ -1,0 +1,13 @@
+<exercise checkit-seed="0002" checkit-slug="AI1" checkit-title="Average Values">
+    <statement>
+        <p>
+            Find an integral that computes the average value of <m>f(x)=-x^{2} - 3 \, x - 4 \, e^{\left(2 \, x\right)} - 5</m> over the interval <m>[1, 2]</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            The average value of <m>f(x)=-x^{2} - 3 \, x - 4 \, e^{\left(2 \, x\right)} - 5</m> over the interval <m>[1, 2]</m> is <me>\frac{1}{ 2-1 } \int_{ 1 }^{ 2 } -x^{2} - 3 \, x - 4 \, e^{\left(2 \, x\right)} - 5dx= -2 \, e^{4} + 2 \, e^{2} - \frac{71}{6}.</me>
+        </p>
+    </answer>
+</exercise>

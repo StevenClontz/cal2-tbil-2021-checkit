@@ -1,0 +1,20 @@
+<exercise checkit-seed="0008" checkit-slug="PS1" checkit-title="Power series">
+    <statement>
+        <p>
+            Consider a function <m>p(x)</m> defined by <me>p(x):=\sum_{n=0}^\infty \frac{5 \, n}{\left(3 \, n\right)!}x^n.</me>
+            <ol>
+                <li>Find <m>p_{ 2 }(x)</m>, the degree <m>2</m> polynomial approximation for <m>p(x)</m>.</li>
+                <li>Use <m>p_{ 2 }(x)</m> to estimate <m>p(3)</m> by computing <m>p_{ 2 }(3)</m>.</li>
+                <li>Use <m>p_{ 2 }(x)</m> to estimate <m>\displaystyle \int_{ -5 }^{ -3 }p(x)dx</m> by computing <m>\displaystyle \int_{ -5 }^{ -3 }p_{ 2 }(x)dx</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li> <m> p_{ 2 }(x)=\frac{1}{72} \, x^{2} + \frac{5}{6} \, x</m>.</li>
+                <li><m>p_{ 2 }(3) = \frac{21}{8}</m>.</li>
+                <li><m> \displaystyle \int_{ -5 }^{ -3 }p_{ 2 }(x)dx = -\frac{671}{108}</m>.</li>
+            </ol>
+    </answer>
+</exercise>

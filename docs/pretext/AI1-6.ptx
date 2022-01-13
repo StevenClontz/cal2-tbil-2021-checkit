@@ -1,0 +1,13 @@
+<exercise checkit-seed="0006" checkit-slug="AI1" checkit-title="Average Values">
+    <statement>
+        <p>
+            Find an integral that computes the average value of <m>f(x)=-4 \, x^{2} + 4 \, x - 5 \, \cos\left(\frac{5}{4} \, \pi x\right) + 5</m> over the interval <m>[1, 4]</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            The average value of <m>f(x)=-4 \, x^{2} + 4 \, x - 5 \, \cos\left(\frac{5}{4} \, \pi x\right) + 5</m> over the interval <m>[1, 4]</m> is <me>\frac{1}{ 4-1 } \int_{ 1 }^{ 4 } -4 \, x^{2} + 4 \, x - 5 \, \cos\left(\frac{5}{4} \, \pi x\right) + 5dx= -\frac{39 \, \pi + 2 \, \sqrt{2}}{3 \, \pi}.</me>
+        </p>
+    </answer>
+</exercise>

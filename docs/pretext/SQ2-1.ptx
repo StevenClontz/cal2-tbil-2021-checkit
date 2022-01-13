@@ -1,0 +1,47 @@
+<exercise checkit-seed="0001" checkit-slug="SQ2" checkit-title="Sequence properties and limits">
+    <statement>
+        <p>
+            For each of the following sequences, determine which of the properties: <em>monotonic</em>, <em>bounded</em> and <em>convergent</em>, the sequence satisfies.  If a sequence is convergent, determine to what it converges.
+        </p>
+        <ol>
+            <li>
+                <m>\displaystyle \left\{ \frac{4 \, n^{2}}{n^{2} + 1} \right\}_{n=0}^\infty</m>.
+            </li>            
+            <li>
+                <m>\displaystyle \left\{ \frac{4 \, \left(-1\right)^{n} n^{3}}{n^{2} + 2} \right\}_{n=0}^\infty</m>.
+            </li>            
+        </ol>
+    </statement>
+    <answer>
+       <ol>
+            <li>
+                <ol>
+                    <li>
+                        The sequence is monotonic.                
+                    </li>
+                    <li>
+                        The sequence is bounded.                
+                    </li>
+                    <li>
+                        The sequence converges to <m>4</m>.                
+                    </li>
+                </ol>
+                
+            </li>            
+            <li>
+                <ol>
+                    <li>
+                        The sequence is not monotonic.                
+                    </li>
+                    <li>
+                        The sequence is not bounded.                
+                    </li>
+                    <li>
+                        The sequence does not converge.                
+                    </li>
+                </ol>
+                
+            </li>            
+        </ol>
+    </answer>
+</exercise>

@@ -1,0 +1,13 @@
+<exercise checkit-seed="0001" checkit-slug="CO5" checkit-title="Polar arclength">
+    <statement>
+        <p>
+            Find an integral computing the arclength of the polar curved defined by <m>r=-3 \, {\theta}^{2} + {\theta} + 2</m> on <m>\frac{1}{4} \, \pi\leq \theta \leq \frac{2}{3} \, \pi</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <m>\displaystyle \int_{ \frac{1}{4} \, \pi }^{ \frac{2}{3} \, \pi }\sqrt{\left(-6 \, {\theta} + 1\right)^2+\left(-3 \, {\theta}^{2} + {\theta} + 2\right)^2 } d\theta</m>.
+        </p>
+    </answer>
+</exercise>

@@ -1,0 +1,21 @@
+<exercise checkit-seed="0009" checkit-slug="PS3" checkit-title="Manipulation of power series">
+    <statement>
+        <p>
+            Recall that the power series for <m>f(x)=e^{x}</m> is: <me>e^{x}=\sum_{n=0}^{\infty} \frac{x^{n}}{n!}.</me>
+            
+            <ol>
+                <li>Find a power series for <m>e^{\left(3 \, x^{3}\right)}</m>.</li>
+                <li>Find a power series for <m>x^{4} e^{x}</m>.</li>
+                <li>Find a power series for <m>f'(x)</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li><m>\displaystyle e^{\left(3 \, x^{3}\right)} = \sum_{n=0}^{\infty}\frac{\left(3 \, x^{3}\right)^{n}}{n!}</m>.</li>
+                <li><m>\displaystyle x^{4} e^{x} = \sum_{n= 0 }^{\infty}\frac{x^{n + 4}}{n!}</m>.</li>
+                <li><m>\displaystyle f'(x)=\sum_{n=0}^{\infty}\frac{x^{n}}{n!}</m>.</li>
+            </ol>
+    </answer>
+</exercise>

@@ -1,0 +1,14 @@
+<exercise checkit-seed="0004" checkit-slug="TI4" checkit-title="Trigonometric Substitution">
+    <statement>
+        <p>
+Find the appropriate trignometric substitution for <m>x</m> and rewrite <me>\int \sqrt{x^{2} + 1} dx</me> as an integral in terms of <m>\theta</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        We substitute <m>x=\tan\left(\theta\right).</m>  Then <m>dx=\sec\left(\theta\right)d\theta</m> and:
+        <me>
+\int \sqrt{x^{2} + 1} dx = \int \sqrt{\tan\left(\theta\right)^{2} + 1} \sec\left(\theta\right) d\theta = \int \sqrt{\sec\left(\theta\right)^{2}} \sec\left(\theta\right) d\theta.
+        </me>
+    </answer>
+</exercise>

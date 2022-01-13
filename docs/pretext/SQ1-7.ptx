@@ -1,0 +1,55 @@
+<exercise checkit-seed="0007" checkit-slug="SQ1" checkit-title="Sequence formulas">
+    <statement>
+        <ol>
+            <li>
+                Find the first 5 terms of the following sequence:
+                <ul>
+                    <li><m>a_n=2 \, n^{2} + 1.</m></li>
+                    ,
+                </ul>
+            </li>
+            <li>
+                Find a closed form for the following sequence:
+                <ul>
+                    <li><m>-5, -1, 3, 7, 11,\ldots</m></li>
+                    ,
+                </ul>
+            </li>
+            <li>
+                Find a recursive form for the following sequence:
+                <ul>
+                    <li><m>-5, \frac{5}{3}, -\frac{5}{9}, \frac{5}{27}, -\frac{5}{81},\ldots</m></li>
+                    ,
+                </ul>
+            </li>
+            
+            
+        </ol>
+    </statement>
+    <answer>
+        <ol>
+            <li>
+                <ul>
+                    <li><m>3, 9, 19, 33, 51</m> if you start with <m> n=1</m>, or <m>1, 3, 9, 19, 33</m> if you start with <m> n=0</m>.</li>
+                    ,
+                </ul>
+            </li>
+            
+            <li>
+                <ul>
+                    <li>Answers can vary depending on your choice of starting index.  For example, <m>4 \, n - 5</m> if <m> n=0,1,...</m>.</li>
+                    ,
+                </ul>
+            </li>
+            
+            <li>
+                <ul>
+                    <li>Answers can vary depending on your choice of starting index.  For example, if <m>a_0=-5</m> then <m>a_n=-\frac{1}{3}a_{n-1}+0</m>.</li>
+                    ,
+                </ul>
+            </li>
+            
+           
+        </ol>
+    </answer>
+</exercise>

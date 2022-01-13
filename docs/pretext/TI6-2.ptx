@@ -1,0 +1,11 @@
+<exercise checkit-seed="0002" checkit-slug="TI6" checkit-title="Partial fractions">
+    <statement>
+        
+        <p>
+            Consider the partial fraction decomposition <me> \frac{x^{2} - 6 \, x + 4}{x^{3} + 2 \, x^{2} + x + 2}=-\frac{3 \, x}{x^{2} + 1} + \frac{4}{x + 2}.</me>  Use this decmposition to compute <m>\displaystyle\int \frac{x^{2} - 6 \, x + 4}{x^{3} + 2 \, x^{2} + x + 2}dx</m>.
+        </p>
+    </statement>
+    <answer>
+        <me>\displaystyle\int \frac{x^{2} - 6 \, x + 4}{x^{3} + 2 \, x^{2} + x + 2}dx=\displaystyle\int -\frac{3 \, x}{x^{2} + 1} + \frac{4}{x + 2}dx=-\frac{3}{2} \, \log\left(x^{2} + 1\right) + 4 \, \log\left(x + 2\right)+C.</me>
+    </answer>
+</exercise>

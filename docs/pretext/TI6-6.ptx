@@ -1,0 +1,11 @@
+<exercise checkit-seed="0006" checkit-slug="TI6" checkit-title="Partial fractions">
+    <statement>
+        
+        <p>
+            Consider the partial fraction decomposition <me> \frac{2 \, {\left(x - 1\right)}}{x^{2} + x}=\frac{4}{x + 1} - \frac{2}{x}.</me>  Use this decmposition to compute <m>\displaystyle\int \frac{2 \, {\left(x - 1\right)}}{x^{2} + x}dx</m>.
+        </p>
+    </statement>
+    <answer>
+        <me>\displaystyle\int \frac{2 \, {\left(x - 1\right)}}{x^{2} + x}dx=\displaystyle\int \frac{4}{x + 1} - \frac{2}{x}dx=4 \, \log\left(x + 1\right) - 2 \, \log\left(x\right)+C.</me>
+    </answer>
+</exercise>

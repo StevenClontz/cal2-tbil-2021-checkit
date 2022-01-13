@@ -1,0 +1,39 @@
+<exercise checkit-seed="0008" checkit-slug="TI1" checkit-title="Substitution method">
+    <statement>
+        <ol>
+            <li>
+                <p>
+                    Explain how to find the anti-derivative of <m>f(x)=5 \, \cos\left(e^{x}\right) e^{x}</m>.
+                    
+                </p>
+                
+            </li>
+            <li>
+                <p>
+                    Explain how to evaluate the following definite integral:
+                    <me>
+                        \int_{ \frac{8}{3} \, \pi }^{ 20 \, \pi } \sin\left(\frac{1}{2} \, x\right) dx.
+                    </me>
+                </p>
+            </li>
+        </ol>
+        
+        
+    </statement>
+    <answer>
+        <ol>
+            <li>
+                <p>
+                    <m>\displaystyle \int 5 \, \cos\left(e^{x}\right) e^{x} dx=5 \, \sin\left(e^{x}\right)+C.</m>
+                </p>
+                
+            </li>
+            <li>
+                <p>
+                    <m>\displaystyle \int_{ \frac{8}{3} \, \pi }^{ 20 \, \pi } \sin\left(\frac{1}{2} \, x\right) dx = -3.</m>
+                </p>
+                
+            </li>
+        </ol>
+    </answer>
+</exercise>

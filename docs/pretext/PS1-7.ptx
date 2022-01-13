@@ -1,0 +1,20 @@
+<exercise checkit-seed="0007" checkit-slug="PS1" checkit-title="Power series">
+    <statement>
+        <p>
+            Consider a function <m>p(x)</m> defined by <me>p(x):=\sum_{n=0}^\infty \frac{4^{n} + 4}{\left(3 \, n\right)!}x^n.</me>
+            <ol>
+                <li>Find <m>p_{ 3 }(x)</m>, the degree <m>3</m> polynomial approximation for <m>p(x)</m>.</li>
+                <li>Use <m>p_{ 3 }(x)</m> to estimate <m>p(1)</m> by computing <m>p_{ 3 }(1)</m>.</li>
+                <li>Use <m>p_{ 3 }(x)</m> to estimate <m>\displaystyle \int_{ -4 }^{ 0 }p(x)dx</m> by computing <m>\displaystyle \int_{ -4 }^{ 0 }p_{ 3 }(x)dx</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li> <m> p_{ 3 }(x)=\frac{17}{90720} \, x^{3} + \frac{1}{36} \, x^{2} + \frac{4}{3} \, x + 5</m>.</li>
+                <li><m>p_{ 3 }(1) = \frac{577097}{90720}</m>.</li>
+                <li><m> \displaystyle \int_{ -4 }^{ 0 }p_{ 3 }(x)dx = \frac{28106}{2835}</m>.</li>
+            </ol>
+    </answer>
+</exercise>

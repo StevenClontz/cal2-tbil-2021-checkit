@@ -1,0 +1,13 @@
+<exercise checkit-seed="0005" checkit-slug="AI1" checkit-title="Average Values">
+    <statement>
+        <p>
+            Find an integral that computes the average value of <m>f(x)=2 \, x^{2} + 5 \, x + 3 \, \cos\left(-\frac{1}{2} \, \pi x\right) - 2</m> over the interval <m>[3, 6]</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            The average value of <m>f(x)=2 \, x^{2} + 5 \, x + 3 \, \cos\left(-\frac{1}{2} \, \pi x\right) - 2</m> over the interval <m>[3, 6]</m> is <me>\frac{1}{ 6-3 } \int_{ 3 }^{ 6 } 2 \, x^{2} + 5 \, x + 3 \, \cos\left(-\frac{1}{2} \, \pi x\right) - 2dx= \frac{125 \, \pi + 4}{2 \, \pi}.</me>
+        </p>
+    </answer>
+</exercise>

@@ -1,0 +1,28 @@
+<exercise checkit-seed="0004" checkit-slug="AI5" checkit-title="Density, Mass, Centers of Mass">
+    <statement>
+        <p>
+            Consider a cylinder  that has circular base with radius 2 meters, and height 15 meters.  Suppose that at height <m>h</m> meters the density of this cylinder is <m>\delta(h)=\frac{19}{20} \, h + 2\ \text{kg}/\text{ m }^3 </m>.
+            
+            <ol>
+                <li>
+                    Find an integral which computes the mass of this cylinder.
+                </li>
+                
+                <li>
+                    Find an expression involving integrals which computes the height of the center of mass for this cylinder.
+                </li>
+            
+            </ol>
+            
+            
+            
+        </p>
+        
+    </statement>
+    <answer>
+        <ol>
+            <li><me>\int_{ 0 }^{ 15 } \left(4 \, \pi\right)\left(\frac{19}{20} \, h + 2\right) dh.</me></li>
+            <li><me>\frac{\displaystyle\int_{ 0 }^{ 15 } h\left(4 \, \pi\right)\left(\frac{19}{20} \, h + 2\right) dh}{\displaystyle\int_{ 0 }^{ 15 } \left(4 \, \pi\right)\left(\frac{19}{20} \, h + 2\right) dh}.</me></li>
+        </ol>
+    </answer>
+</exercise>

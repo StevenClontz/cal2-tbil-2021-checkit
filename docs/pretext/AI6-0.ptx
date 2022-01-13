@@ -1,0 +1,22 @@
+<exercise checkit-seed="0000" checkit-slug="AI6" checkit-title="Physics Applications">
+
+            <statement>
+                <p>
+                    Suppose a  bucket of water if being pulled into the air by a rope at a constant rate.  The bucket is constantly losing water as it's pulled up, so at a height of <m>h</m> meters, the mass of the bucket is <m>m(h)=5 \, e^{\left(-\frac{1}{10} \, h\right)} + 10</m> kg.  Find an integral which computes how much work is needed to lift the bucket <m>40</m> meters into the air.  Recall that the acceleration of gravity is 9.8 m<m>/\text{s}^2</m>.
+                </p>
+            </statement>
+            <answer>
+                <p>
+                    <me>\int_0^{ 40 } 9.8\left(5 \, e^{\left(-\frac{1}{10} \, h\right)} + 10\right)dh\  \text{Nm}.</me>
+                </p>
+            </answer>
+
+
+
+
+    
+    
+    
+
+    
+</exercise>

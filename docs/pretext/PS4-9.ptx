@@ -1,0 +1,29 @@
+<exercise checkit-seed="0009" checkit-slug="PS4" checkit-title="Taylor series">
+    <statement>
+        <p>
+            Let <m>f(x)</m> be a function such that:
+            
+            <me>
+                \begin{array}{|c|c|c|c|c|c|c|}
+                f(3) &amp; f'(3) &amp; f''(3) &amp; f'''(3) &amp; f^{(4)}(3) &amp; f^{(5)}(3) &amp; f^{(6)}(3) \\
+                \hline
+                4 &amp; 12 &amp; 36 &amp; 108 &amp; 324 &amp; 972 &amp; 2916 
+                \end{array}
+            </me>
+            
+            <ol>
+                <li>Find a Taylor polynomial for <m>f(x)</m> centered at <m>x=3</m> of degree <m>3</m>.</li>
+                <li>Using the table above, find a general closed form for <m>f^{(n)}(3)</m>.</li>
+                <li>Use (b) to find a Taylor series for <m>f(x)</m> centered at <m>x=3</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li><m>f_{ 3 }(x)=18 \, {\left(x - 3\right)}^{3} + 18 \, {\left(x - 3\right)}^{2} + 12 \, x - 32</m>.</li>
+                <li><m>f^{(n)}(3)=4 \cdot 3^{n}</m>.</li>
+                <li><m>\displaystyle f(x)=\sum_{n=0}^\infty \frac{ 4 \cdot 3^{n} }{n!} (x-3)^n</m>.</li>
+            </ol>
+    </answer>
+</exercise>

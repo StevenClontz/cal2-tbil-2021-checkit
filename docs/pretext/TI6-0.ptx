@@ -1,0 +1,11 @@
+<exercise checkit-seed="0000" checkit-slug="TI6" checkit-title="Partial fractions">
+    <statement>
+        
+        <p>
+            Consider the partial fraction decomposition <me> -\frac{x^{2} + 5 \, x - 11}{x^{3} - 4 \, x^{2} + 9 \, x - 36}=-\frac{5}{x^{2} + 9} - \frac{1}{x - 4}.</me>  Use this decmposition to compute <m>\displaystyle\int -\frac{x^{2} + 5 \, x - 11}{x^{3} - 4 \, x^{2} + 9 \, x - 36}dx</m>.
+        </p>
+    </statement>
+    <answer>
+        <me>\displaystyle\int -\frac{x^{2} + 5 \, x - 11}{x^{3} - 4 \, x^{2} + 9 \, x - 36}dx=\displaystyle\int -\frac{5}{x^{2} + 9} - \frac{1}{x - 4}dx=-\frac{5}{3} \, \arctan\left(\frac{1}{3} \, x\right) - \log\left(x - 4\right)+C.</me>
+    </answer>
+</exercise>

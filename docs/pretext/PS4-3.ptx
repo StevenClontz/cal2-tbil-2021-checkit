@@ -1,0 +1,29 @@
+<exercise checkit-seed="0003" checkit-slug="PS4" checkit-title="Taylor series">
+    <statement>
+        <p>
+            Let <m>f(x)</m> be a function such that:
+            
+            <me>
+                \begin{array}{|c|c|c|c|c|c|c|}
+                f(4) &amp; f'(4) &amp; f''(4) &amp; f'''(4) &amp; f^{(4)}(4) &amp; f^{(5)}(4) &amp; f^{(6)}(4) \\
+                \hline
+                -1 &amp; -3 &amp; -9 &amp; -27 &amp; -81 &amp; -243 &amp; -729 
+                \end{array}
+            </me>
+            
+            <ol>
+                <li>Find a Taylor polynomial for <m>f(x)</m> centered at <m>x=4</m> of degree <m>2</m>.</li>
+                <li>Using the table above, find a general closed form for <m>f^{(n)}(4)</m>.</li>
+                <li>Use (b) to find a Taylor series for <m>f(x)</m> centered at <m>x=4</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li><m>f_{ 2 }(x)=-\frac{9}{2} \, {\left(x - 4\right)}^{2} - 3 \, x + 11</m>.</li>
+                <li><m>f^{(n)}(4)=-3^{n}</m>.</li>
+                <li><m>\displaystyle f(x)=\sum_{n=0}^\infty \frac{ -3^{n} }{n!} (x-4)^n</m>.</li>
+            </ol>
+    </answer>
+</exercise>

@@ -1,0 +1,46 @@
+<exercise checkit-seed="0006" checkit-slug="SQ3" checkit-title="Partial sum sequence">
+    <statement>
+        <p>
+            <ol>
+                <li>
+                    Consider the partial sum sequence <m>\displaystyle A_n=\left(3\right)+\left(\frac{9}{4}\right)+\left(\frac{27}{16}\right)+\cdots+\left(3\cdot \left( \frac{3}{4}\right)^n \right).</m>
+                    <ol>
+                        <li>Find a closed form for <m>A_n</m>.</li>
+                        <li>Does <m>\{A_n\}</m> converge?  If so, to what value?</li>
+                    </ol>
+                </li>
+                <li>
+                    Consider the partial sum sequence <m>\displaystyle B_n=\sum_{i=1}^n \left( \frac{1}{5 \, i + 3}-\frac{1}{5 \, i + 8} \right).</m>
+                    <ol>
+                        <li>Find a closed form for <m>B_n</m>.</li>
+                        <li>Does <m>\{B_n\}</m> converge?  If so, to what value?</li>
+                    </ol>
+                </li>
+                
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <ol>
+                <li>
+                    <ol>
+                        <li><m>\displaystyle A_n=3\cdot\frac{1-\left(\frac{3}{4}\right)^{n+1} }{1- \left(\frac{3}{4}\right) }</m>.</li>
+                        <li>
+                            <m>\displaystyle\lim_{n\to\infty} 3\cdot\frac{1-\left(\frac{3}{4}\right)^{n+1} }{1- \left(\frac{3}{4}\right) } </m> converges to <m>12</m>.                
+                        </li>            
+                    </ol>
+                </li>
+                <li>
+                    <ol>
+                        <li><m>\displaystyle B_n=\frac{1}{8}-\frac{1}{5 \, n + 8}</m>.</li>
+                        <li>
+                            <m>\displaystyle\lim_{n\to\infty} \frac{1}{8}-\frac{1}{5 \, n + 8} </m> converges to <m>\frac{1}{8}</m>.                
+                        </li>            
+                    </ol>
+                </li>
+            </ol>
+        </p>
+    </answer>
+</exercise>

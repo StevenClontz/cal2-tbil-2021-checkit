@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+    <statement>
+        <p>
+            <ol>
+                <li>
+                    Convert the following rectangular equation to a polar equation: <m>{{lhs1}}={{rhs1}}.</m>
+                </li>
+                <li>
+                    Convert the following polar equation to a rectangular equation: <m>{{lhs2}}={{rhs2}}.</m>
+                </li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li>
+                    <m>{{lhsa1}}={{rhsa1}}.</m>
+                </li>
+                <li>
+                    <m>{{lhsa2}}={{rhsa2}}.</m>
+                </li>
+            </ol>
+    </answer>
+</exercise>

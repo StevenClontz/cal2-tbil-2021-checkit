@@ -1,0 +1,11 @@
+<exercise checkit-seed="0003" checkit-slug="TI6" checkit-title="Partial fractions">
+    <statement>
+        
+        <p>
+            Consider the partial fraction decomposition <me> \frac{3 \, x + 7}{x^{2} + 3 \, x + 2}=-\frac{1}{x + 2} + \frac{4}{x + 1}.</me>  Use this decmposition to compute <m>\displaystyle\int \frac{3 \, x + 7}{x^{2} + 3 \, x + 2}dx</m>.
+        </p>
+    </statement>
+    <answer>
+        <me>\displaystyle\int \frac{3 \, x + 7}{x^{2} + 3 \, x + 2}dx=\displaystyle\int -\frac{1}{x + 2} + \frac{4}{x + 1}dx=-\log\left(x + 2\right) + 4 \, \log\left(x + 1\right)+C.</me>
+    </answer>
+</exercise>

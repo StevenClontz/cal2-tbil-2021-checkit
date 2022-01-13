@@ -1,0 +1,96 @@
+<exercise checkit-seed="0009" checkit-slug="AI2" checkit-title="Arc Length">
+    <statement>
+        <p>
+            Consider the curve <m>y=-x^{5}</m> defined on <m>[2, 4]</m>.
+            <ol>
+                <li>
+                    Estimate the arclength of this curve with <m>5</m> line segments with <m>\Delta x = 0.4</m>.
+                </li>
+                <li>
+                    Find an integral that computes the arclength of this curve.
+                </li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <ol>
+                <li>
+                    <me>
+               \begin{array}{|c|c|c|c|c|}
+              \hline
+              x_i
+              &amp;
+              x_{i+1}
+              &amp;
+              f(x_{i})
+              &amp;
+              f(x_{i+1})
+              &amp;
+              \text{Length of segment}          
+              \\
+              \hline
+               2
+              &amp; 
+               2.4
+              &amp;
+               -32.0
+              &amp; 
+               -79.6262
+              &amp;
+               47.6279         
+                  \\
+               2.4
+              &amp; 
+               2.8
+              &amp;
+               -79.6262
+              &amp; 
+               -172.1037
+              &amp;
+               92.4783         
+                  \\
+               2.8
+              &amp; 
+               3.1999999999999997
+              &amp;
+               -172.1037
+              &amp; 
+               -335.5443
+              &amp;
+               163.4411         
+                  \\
+               3.2
+              &amp; 
+               3.6
+              &amp;
+               -335.5443
+              &amp; 
+               -604.6618
+              &amp;
+               269.1177         
+                  \\
+               3.6
+              &amp; 
+               4.0
+              &amp;
+               -604.6618
+              &amp; 
+               -1024.0
+              &amp;
+               419.3384         
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+              The estimated length of this curve is 992.0033999999999.      
+                </li>
+                <li>
+                    The arclength is computed via <me>\int_{ 2 }^{ 4 }\sqrt{1+ \left(-5 \, x^{4}\right)^2}dx.</me> 
+                </li>
+            </ol>
+        </p>
+    </answer>
+</exercise>

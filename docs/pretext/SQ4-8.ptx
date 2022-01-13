@@ -1,0 +1,15 @@
+<exercise checkit-seed="0008" checkit-slug="SQ4" checkit-title="Geometric summations">
+    <statement>
+        <p>
+            Find the limit of the following series.
+        </p>
+        <me>
+            4 + \sum_{n = 3 }^\infty -2\cdot\left(\frac{4}{5}\right)^n.
+        </me>
+    </statement>
+    <answer>
+        <me>
+            4 + \sum_{n = 3 }^\infty -2\cdot\left(\frac{4}{5}\right)^n=-\frac{28}{25}.
+        </me>
+    </answer>
+</exercise>

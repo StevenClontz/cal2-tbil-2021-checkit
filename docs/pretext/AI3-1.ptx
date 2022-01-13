@@ -1,0 +1,28 @@
+<exercise checkit-seed="0001" checkit-slug="AI3" checkit-title="Volumes of Revolution">
+    <statement>
+        <p>
+            Consider the region bound by <m>y=5 \, e^{x},  x=1, x=5</m>.  
+            
+            <ol>
+                <li>Find an integral which computes the volume of the solid formed by rotating this region about the <m>x</m>-axis.</li>
+                <li>Find an integral which computes the volume of the solid formed by rotating this region about the <m>y</m>-axis.</li>
+            </ol>
+            
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <ol>
+                <li>Using the washer/disk method, we obtain <me>\int_{ 1 }^{ 5 } \pi \left(5 \, e^{x}\right)^2dx</me> and using the shell method, we obtain 
+                    <me>\int_0^{ 5 \, e } 2\pi y\left( 5-1\right)dy +\int_{ 5 \, e }^{ 5 \, e^{5} } 2\pi y\left( 5-\left(\log\left(\frac{1}{5} \, y\right)\right)\right)dy.</me></li>
+                
+                
+                <li>Using the washer/disk method, we obtain 
+                    <me>\int_0^{ 5 \, e } \pi\left(5^2-1^2\right)dy + \int_{ 5 \, e }^{ 5 \, e^{5} } \pi\left(5^2-\left(\log\left(\frac{1}{5} \, y\right)\right)^2\right)dy</me> and using the shell method, we obtain 
+                    <me>\int_{ 1 }^{ 5 }2\pi x \left(5 \, e^{x}\right)dx.</me>
+                </li>    
+            </ol>
+        </p>
+    </answer>
+</exercise>

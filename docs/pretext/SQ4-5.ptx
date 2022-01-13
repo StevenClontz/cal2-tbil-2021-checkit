@@ -1,0 +1,15 @@
+<exercise checkit-seed="0005" checkit-slug="SQ4" checkit-title="Geometric summations">
+    <statement>
+        <p>
+            Find the limit of the following series.
+        </p>
+        <me>
+            3 + \sum_{n = 1 }^\infty -3\cdot\left(\frac{1}{2}\right)^n.
+        </me>
+    </statement>
+    <answer>
+        <me>
+            3 + \sum_{n = 1 }^\infty -3\cdot\left(\frac{1}{2}\right)^n=0.
+        </me>
+    </answer>
+</exercise>

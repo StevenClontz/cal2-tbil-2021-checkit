@@ -1,0 +1,11 @@
+<exercise checkit-seed="0002" checkit-slug="CO3" checkit-title="Parametric/vector arclength">
+    <statement>
+        <p>
+            Given the vector equation <m>\hat{ v }(t)=\langle -3 \, e^{t}, -2 \, t + 1 \rangle</m>, write a definite integral which computes the length of the curve defined by <m>4\leq t \leq 11</m>.
+        </p>
+        
+    </statement>
+    <answer>
+            <m>\displaystyle \int_{ 4 }^{ 11 } \sqrt{ \left( -3 \, e^{t}\right)^2+\left( -2\right)^2} dt</m>.
+    </answer>
+</exercise>

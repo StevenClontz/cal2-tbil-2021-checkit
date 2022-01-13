@@ -1,0 +1,86 @@
+<exercise checkit-seed="0001" checkit-slug="AI2" checkit-title="Arc Length">
+    <statement>
+        <p>
+            Consider the curve <m>y=\sqrt{3 \, x + 5}</m> defined on <m>[3, 5]</m>.
+            <ol>
+                <li>
+                    Estimate the arclength of this curve with <m>4</m> line segments with <m>\Delta x = 0.5</m>.
+                </li>
+                <li>
+                    Find an integral that computes the arclength of this curve.
+                </li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <ol>
+                <li>
+                    <me>
+               \begin{array}{|c|c|c|c|c|}
+              \hline
+              x_i
+              &amp;
+              x_{i+1}
+              &amp;
+              f(x_{i})
+              &amp;
+              f(x_{i+1})
+              &amp;
+              \text{Length of segment}          
+              \\
+              \hline
+               3
+              &amp; 
+               3.5
+              &amp;
+               3.7417
+              &amp; 
+               3.937
+              &amp;
+               0.5368         
+                  \\
+               3.5
+              &amp; 
+               4.0
+              &amp;
+               3.937
+              &amp; 
+               4.1231
+              &amp;
+               0.5335         
+                  \\
+               4.0
+              &amp; 
+               4.5
+              &amp;
+               4.1231
+              &amp; 
+               4.3012
+              &amp;
+               0.5308         
+                  \\
+               4.5
+              &amp; 
+               5.0
+              &amp;
+               4.3012
+              &amp; 
+               4.4721
+              &amp;
+               0.5284         
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+              The estimated length of this curve is 2.1295.      
+                </li>
+                <li>
+                    The arclength is computed via <me>\int_{ 3 }^{ 5 }\sqrt{1+ \left(\frac{3}{2 \, \sqrt{3 \, x + 5}}\right)^2}dx.</me> 
+                </li>
+            </ol>
+        </p>
+    </answer>
+</exercise>

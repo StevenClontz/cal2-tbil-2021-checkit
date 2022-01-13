@@ -1,0 +1,28 @@
+<exercise checkit-seed="0006" checkit-slug="AI5" checkit-title="Density, Mass, Centers of Mass">
+    <statement>
+        <p>
+            Consider a Cone  that has circular base with radius 5 meters, and height 10 meters.  Suppose that at height <m>h</m> meters the density of this Cone is <m>\delta(h)=\frac{21}{20} \, h + 3\ \text{kg}/\text{ m }^3 </m>.
+            
+            <ol>
+                <li>
+                    Find an integral which computes the mass of this Cone.
+                </li>
+                
+                <li>
+                    Find an expression involving integrals which computes the height of the center of mass for this Cone.
+                </li>
+            
+            </ol>
+            
+            
+            
+        </p>
+        
+    </statement>
+    <answer>
+        <ol>
+            <li><me>\int_{ 0 }^{ 10 } \left(\frac{1}{4} \, \pi {\left(h - 10\right)}^{2}\right)\left(\frac{21}{20} \, h + 3\right) dh.</me></li>
+            <li><me>\frac{\displaystyle\int_{ 0 }^{ 10 } h\left(\frac{1}{4} \, \pi {\left(h - 10\right)}^{2}\right)\left(\frac{21}{20} \, h + 3\right) dh}{\displaystyle\int_{ 0 }^{ 10 } \left(\frac{1}{4} \, \pi {\left(h - 10\right)}^{2}\right)\left(\frac{21}{20} \, h + 3\right) dh}.</me></li>
+        </ol>
+    </answer>
+</exercise>

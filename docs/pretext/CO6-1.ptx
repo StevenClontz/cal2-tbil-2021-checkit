@@ -1,0 +1,13 @@
+<exercise checkit-seed="0001" checkit-slug="CO6" checkit-title="Polar area">
+    <statement>
+        <p>
+            Find an integral computing the area of the region defined by <m>0\leq r\leq3 \, \cos\left({\theta}\right) + 8</m> and <m>0\leq \theta \leq \frac{1}{3} \, \pi</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <m>\displaystyle \frac{1}{2}\int_{ 0 }^{ \frac{1}{3} \, \pi }\left(3 \, \cos\left({\theta}\right) + 8\right)^2 d\theta</m>.
+        </p>
+    </answer>
+</exercise>

@@ -1,0 +1,11 @@
+<exercise checkit-seed="0005" checkit-slug="CO3" checkit-title="Parametric/vector arclength">
+    <statement>
+        <p>
+            Given the vector equation <m>\hat{ m }(t)=\langle \frac{2}{5} \, e^{t}, 4 \, \sin\left(t\right) + 5 \rangle</m>, write a definite integral which computes the length of the curve defined by <m>1\leq t \leq 4</m>.
+        </p>
+        
+    </statement>
+    <answer>
+            <m>\displaystyle \int_{ 1 }^{ 4 } \sqrt{ \left( \frac{2}{5} \, e^{t}\right)^2+\left( 4 \, \cos\left(t\right)\right)^2} dt</m>.
+    </answer>
+</exercise>

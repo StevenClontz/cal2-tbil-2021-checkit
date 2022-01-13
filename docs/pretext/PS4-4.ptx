@@ -1,0 +1,29 @@
+<exercise checkit-seed="0004" checkit-slug="PS4" checkit-title="Taylor series">
+    <statement>
+        <p>
+            Let <m>f(x)</m> be a function such that:
+            
+            <me>
+                \begin{array}{|c|c|c|c|c|c|c|}
+                f(0) &amp; f'(0) &amp; f''(0) &amp; f'''(0) &amp; f^{(4)}(0) &amp; f^{(5)}(0) &amp; f^{(6)}(0) \\
+                \hline
+                -5 &amp; 15 &amp; -45 &amp; 135 &amp; -405 &amp; 1215 &amp; -3645 
+                \end{array}
+            </me>
+            
+            <ol>
+                <li>Find a Taylor polynomial for <m>f(x)</m> centered at <m>x=0</m> of degree <m>2</m>.</li>
+                <li>Using the table above, find a general closed form for <m>f^{(n)}(0)</m>.</li>
+                <li>Use (b) to find a Taylor series for <m>f(x)</m> centered at <m>x=0</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li><m>f_{ 2 }(x)=-\frac{45}{2} \, x^{2} + 15 \, x - 5</m>.</li>
+                <li><m>f^{(n)}(0)=-5 \cdot 3^{n} \left(-1\right)^{n}</m>.</li>
+                <li><m>\displaystyle f(x)=\sum_{n=0}^\infty \frac{ -5 \cdot 3^{n} \left(-1\right)^{n} }{n!} (x-0)^n</m>.</li>
+            </ol>
+    </answer>
+</exercise>

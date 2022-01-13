@@ -1,0 +1,29 @@
+<exercise checkit-seed="0005" checkit-slug="PS4" checkit-title="Taylor series">
+    <statement>
+        <p>
+            Let <m>f(x)</m> be a function such that:
+            
+            <me>
+                \begin{array}{|c|c|c|c|c|c|c|}
+                f(-1) &amp; f'(-1) &amp; f''(-1) &amp; f'''(-1) &amp; f^{(4)}(-1) &amp; f^{(5)}(-1) &amp; f^{(6)}(-1) \\
+                \hline
+                0 &amp; 3 &amp; -12 &amp; 27 &amp; -48 &amp; 75 &amp; -108 
+                \end{array}
+            </me>
+            
+            <ol>
+                <li>Find a Taylor polynomial for <m>f(x)</m> centered at <m>x=-1</m> of degree <m>3</m>.</li>
+                <li>Using the table above, find a general closed form for <m>f^{(n)}(-1)</m>.</li>
+                <li>Use (b) to find a Taylor series for <m>f(x)</m> centered at <m>x=-1</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li><m>f_{ 3 }(x)=\frac{9}{2} \, {\left(x + 1\right)}^{3} - 6 \, {\left(x + 1\right)}^{2} + 3 \, x + 3</m>.</li>
+                <li><m>f^{(n)}(-1)=-3 \, \left(-1\right)^{n} n^{2}</m>.</li>
+                <li><m>\displaystyle f(x)=\sum_{n=0}^\infty \frac{ -3 \, \left(-1\right)^{n} n^{2} }{n!} (x--1)^n</m>.</li>
+            </ol>
+    </answer>
+</exercise>

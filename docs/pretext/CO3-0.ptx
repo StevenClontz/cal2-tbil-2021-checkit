@@ -1,0 +1,11 @@
+<exercise checkit-seed="0000" checkit-slug="CO3" checkit-title="Parametric/vector arclength">
+    <statement>
+        <p>
+            Given the vector equation <m>\hat{ z }(t)=\langle -2 \, e^{t}, -t \rangle</m>, write a definite integral which computes the length of the curve defined by <m>5\leq t \leq 8</m>.
+        </p>
+        
+    </statement>
+    <answer>
+            <m>\displaystyle \int_{ 5 }^{ 8 } \sqrt{ \left( -2 \, e^{t}\right)^2+\left( -1\right)^2} dt</m>.
+    </answer>
+</exercise>

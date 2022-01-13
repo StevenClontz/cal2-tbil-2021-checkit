@@ -1,0 +1,11 @@
+<exercise checkit-seed="0007" checkit-slug="CO3" checkit-title="Parametric/vector arclength">
+    <statement>
+        <p>
+            Given the vector equation <m>\hat{ z }(t)=\langle \sin\left(t\right) + 1, -3 \, t^{2} - t - 3 \rangle</m>, write a definite integral which computes the length of the curve defined by <m>0\leq t \leq 9</m>.
+        </p>
+        
+    </statement>
+    <answer>
+            <m>\displaystyle \int_{ 0 }^{ 9 } \sqrt{ \left( \cos\left(t\right)\right)^2+\left( -6 \, t - 1\right)^2} dt</m>.
+    </answer>
+</exercise>

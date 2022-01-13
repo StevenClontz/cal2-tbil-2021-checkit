@@ -1,0 +1,14 @@
+<exercise checkit-seed="0005" checkit-slug="TI4" checkit-title="Trigonometric Substitution">
+    <statement>
+        <p>
+Find the appropriate trignometric substitution for <m>x</m> and rewrite <me>\int -x^{2} + 4 dx</me> as an integral in terms of <m>\theta</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        We substitute <m>x=2 \, \sin\left(\theta\right).</m>  Then <m>dx=2 \, \cos\left(\theta\right)d\theta</m> and:
+        <me>
+\int -x^{2} + 4 dx = \int -8 \, {\left(\sin\left(\theta\right)^{2} - 1\right)} \cos\left(\theta\right) d\theta = \int 8 \, \cos\left(\theta\right)^{3} d\theta.
+        </me>
+    </answer>
+</exercise>

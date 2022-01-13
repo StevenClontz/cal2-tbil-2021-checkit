@@ -1,0 +1,39 @@
+<exercise checkit-seed="0006" checkit-slug="TI2" checkit-title="Integration by parts">
+    <statement>
+        <ol>
+            <li>
+                <p>
+                    Explain how to find the anti-derivative of <m>f(x)=4 \, x^{2} e^{x}</m>.
+                    
+                </p>
+                
+            </li>
+            <li>
+                <p>
+                    Explain how to evaluate the following definite integral:
+                    <me>
+                        \int_{ -2 }^{ -1 } 4 \, x^{2} e^{x} dx.
+                    </me>
+                </p>
+            </li>
+        </ol>
+        
+        
+    </statement>
+    <answer>
+        <ol>
+            <li>
+                <p>
+                    <m>\displaystyle \int 4 \, x^{2} e^{x} dx=4 \, x^{2} e^{x} - 8 \, x e^{x} + 8 \, e^{x}+C.</m>
+                </p>
+                
+            </li>
+            <li>
+                <p>
+                    <m>\displaystyle \int_{ -2 }^{ -1 } 4 \, x^{2} e^{x} dx = 20 \, e^{\left(-1\right)} - 40 \, e^{\left(-2\right)}.</m>
+                </p>
+                
+            </li>
+        </ol>
+    </answer>
+</exercise>

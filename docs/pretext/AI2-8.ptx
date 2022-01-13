@@ -1,0 +1,96 @@
+<exercise checkit-seed="0008" checkit-slug="AI2" checkit-title="Arc Length">
+    <statement>
+        <p>
+            Consider the curve <m>y=\sqrt{5 \, x + 4}</m> defined on <m>[2, 3]</m>.
+            <ol>
+                <li>
+                    Estimate the arclength of this curve with <m>5</m> line segments with <m>\Delta x = 0.2</m>.
+                </li>
+                <li>
+                    Find an integral that computes the arclength of this curve.
+                </li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <ol>
+                <li>
+                    <me>
+               \begin{array}{|c|c|c|c|c|}
+              \hline
+              x_i
+              &amp;
+              x_{i+1}
+              &amp;
+              f(x_{i})
+              &amp;
+              f(x_{i+1})
+              &amp;
+              \text{Length of segment}          
+              \\
+              \hline
+               2
+              &amp; 
+               2.2
+              &amp;
+               3.7417
+              &amp; 
+               3.873
+              &amp;
+               0.2393         
+                  \\
+               2.2
+              &amp; 
+               2.4000000000000004
+              &amp;
+               3.873
+              &amp; 
+               4.0
+              &amp;
+               0.2369         
+                  \\
+               2.4
+              &amp; 
+               2.6
+              &amp;
+               4.0
+              &amp; 
+               4.1231
+              &amp;
+               0.2349         
+                  \\
+               2.6
+              &amp; 
+               2.8000000000000003
+              &amp;
+               4.1231
+              &amp; 
+               4.2426
+              &amp;
+               0.233         
+                  \\
+               2.8
+              &amp; 
+               3.0
+              &amp;
+               4.2426
+              &amp; 
+               4.3589
+              &amp;
+               0.2313         
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+              The estimated length of this curve is 1.1754.      
+                </li>
+                <li>
+                    The arclength is computed via <me>\int_{ 2 }^{ 3 }\sqrt{1+ \left(\frac{5}{2 \, \sqrt{5 \, x + 4}}\right)^2}dx.</me> 
+                </li>
+            </ol>
+        </p>
+    </answer>
+</exercise>

@@ -1,0 +1,13 @@
+<exercise checkit-seed="0005" checkit-slug="CO6" checkit-title="Polar area">
+    <statement>
+        <p>
+            Find an integral computing the area of the region defined by <m>0\leq r\leq5 \, {\theta}^{2} + {\theta} + 2</m> and <m>\frac{1}{3} \, \pi\leq \theta \leq \frac{5}{6} \, \pi</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <m>\displaystyle \frac{1}{2}\int_{ \frac{1}{3} \, \pi }^{ \frac{5}{6} \, \pi }\left(5 \, {\theta}^{2} + {\theta} + 2\right)^2 d\theta</m>.
+        </p>
+    </answer>
+</exercise>

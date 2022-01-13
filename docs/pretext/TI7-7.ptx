@@ -1,0 +1,24 @@
+<exercise checkit-seed="0007" checkit-slug="TI7" checkit-title="Integration strategy">
+    <statement>
+        <p>
+            For each of the following integrals, describe which strategy you would use to integrate it, and why that is the best choice.  (You do <em>not</em> need to actually compute the integral.)
+            <ol>
+                <li><m>\displaystyle \int 4dx</m>.</li>
+                <li><m>\displaystyle \int \sqrt{-x^{2} + 1}dx</m>.</li>
+                <li><m>\displaystyle \int 4 \, x^{3} \cos\left(x\right)dx</m>.</li>
+                <li><m>\displaystyle \int -\frac{8 \, x + 17}{{\left(x + 4\right)} {\left(x - 1\right)}}dx</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <ol>
+                <li>Substitution.</li>
+                <li>Trigonometric substitution.</li>
+                <li>Integration by parts.</li>
+                <li>Partial fractions.</li>
+            </ol>
+        </p>
+    </answer>
+</exercise>

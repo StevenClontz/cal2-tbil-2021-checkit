@@ -1,0 +1,21 @@
+<exercise checkit-seed="0001" checkit-slug="PS3" checkit-title="Manipulation of power series">
+    <statement>
+        <p>
+            Recall that the power series for <m>f(x)=e^{x}</m> is: <me>e^{x}=\sum_{n=0}^{\infty} \frac{x^{n}}{n!}.</me>
+            
+            <ol>
+                <li>Find a power series for <m>e^{\left(-5 \, x^{5}\right)}</m>.</li>
+                <li>Find a power series for <m>x^{4} e^{x}</m>.</li>
+                <li>Find a power series for <m>F(x)</m>, an antiderivative of <m>f(x)</m> such that <m>F(0)=1</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li><m>\displaystyle e^{\left(-5 \, x^{5}\right)} = \sum_{n=0}^{\infty}\frac{\left(-5 \, x^{5}\right)^{n}}{n!}</m>.</li>
+                <li><m>\displaystyle x^{4} e^{x} = \sum_{n= 0 }^{\infty}\frac{x^{n + 4}}{n!}</m>.</li>
+                <li><m>\displaystyle F(x)=1+\sum_{n=1 }^{\infty}\frac{x^{n}}{n!}</m>.</li>
+            </ol>
+    </answer>
+</exercise>

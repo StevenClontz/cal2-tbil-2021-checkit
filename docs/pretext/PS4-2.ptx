@@ -1,0 +1,29 @@
+<exercise checkit-seed="0002" checkit-slug="PS4" checkit-title="Taylor series">
+    <statement>
+        <p>
+            Let <m>f(x)</m> be a function such that:
+            
+            <me>
+                \begin{array}{|c|c|c|c|c|c|c|}
+                f(5) &amp; f'(5) &amp; f''(5) &amp; f'''(5) &amp; f^{(4)}(5) &amp; f^{(5)}(5) &amp; f^{(6)}(5) \\
+                \hline
+                5 &amp; -10 &amp; 20 &amp; -40 &amp; 80 &amp; -160 &amp; 320 
+                \end{array}
+            </me>
+            
+            <ol>
+                <li>Find a Taylor polynomial for <m>f(x)</m> centered at <m>x=5</m> of degree <m>3</m>.</li>
+                <li>Using the table above, find a general closed form for <m>f^{(n)}(5)</m>.</li>
+                <li>Use (b) to find a Taylor series for <m>f(x)</m> centered at <m>x=5</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li><m>f_{ 3 }(x)=-\frac{20}{3} \, {\left(x - 5\right)}^{3} + 10 \, {\left(x - 5\right)}^{2} - 10 \, x + 55</m>.</li>
+                <li><m>f^{(n)}(5)=5 \cdot 2^{n} \left(-1\right)^{n}</m>.</li>
+                <li><m>\displaystyle f(x)=\sum_{n=0}^\infty \frac{ 5 \cdot 2^{n} \left(-1\right)^{n} }{n!} (x-5)^n</m>.</li>
+            </ol>
+    </answer>
+</exercise>

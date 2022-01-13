@@ -1,0 +1,13 @@
+<exercise checkit-seed="0000" checkit-slug="CO6" checkit-title="Polar area">
+    <statement>
+        <p>
+            Find an integral computing the area of the region defined by <m>0\leq r\leq-\cos\left({\theta}\right) + 5</m> and <m>\frac{1}{2} \, \pi\leq \theta \leq \frac{3}{4} \, \pi</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <m>\displaystyle \frac{1}{2}\int_{ \frac{1}{2} \, \pi }^{ \frac{3}{4} \, \pi }\left(-\cos\left({\theta}\right) + 5\right)^2 d\theta</m>.
+        </p>
+    </answer>
+</exercise>

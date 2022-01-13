@@ -1,0 +1,11 @@
+<exercise checkit-seed="0003" checkit-slug="CO3" checkit-title="Parametric/vector arclength">
+    <statement>
+        <p>
+            Given the vector equation <m>\hat{ k }(t)=\langle t, -4^{t} \rangle</m>, write a definite integral which computes the length of the curve defined by <m>4\leq t \leq 9</m>.
+        </p>
+        
+    </statement>
+    <answer>
+            <m>\displaystyle \int_{ 4 }^{ 9 } \sqrt{ \left( 1\right)^2+\left( -2 \cdot 4^{t} \log\left(2\right)\right)^2} dt</m>.
+    </answer>
+</exercise>

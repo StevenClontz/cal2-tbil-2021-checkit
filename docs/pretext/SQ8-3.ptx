@@ -1,0 +1,31 @@
+<exercise checkit-seed="0003" checkit-slug="SQ8" checkit-title="Absolute convergence">
+    <statement>
+        <p>
+            For each of the following series, determine if the series is <em>convergent</em>, and if the series is  <em>absolutely convergent</em>.
+        </p>
+        <ol>
+            <li>
+                <m>\displaystyle \sum_{n=1}^\infty \frac{{\left(4 \, n^{2} + 5\right)} \left(-1\right)^{n}}{n^{6} + 1}.</m>
+            </li>            
+            <li>
+                <m>\displaystyle \sum_{n=1}^\infty \frac{{\left(3 \, n^{3} + 1\right)} \left(-1\right)^{n}}{3 \, n^{4} + 3 \, n^{3} + 2 \, n + 3}.</m>
+            </li>            
+        </ol>
+    </statement>
+    <answer>
+       <ol>
+            <li>
+                
+                        <m>\displaystyle \sum_{n=1}^\infty \frac{{\left(4 \, n^{2} + 5\right)} \left(-1\right)^{n}}{n^{6} + 1}</m> converges  and is absolutely convergent.                
+                    
+                
+            </li>            
+            <li>
+                
+                        <m>\displaystyle \sum_{n=1}^\infty \frac{{\left(3 \, n^{3} + 1\right)} \left(-1\right)^{n}}{3 \, n^{4} + 3 \, n^{3} + 2 \, n + 3}</m> converges but is not absolutely convergent.               
+                    
+                
+            </li>            
+        </ol>
+    </answer>
+</exercise>

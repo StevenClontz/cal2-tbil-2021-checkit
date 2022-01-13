@@ -1,0 +1,20 @@
+<exercise checkit-seed="0000" checkit-slug="PS1" checkit-title="Power series">
+    <statement>
+        <p>
+            Consider a function <m>p(x)</m> defined by <me>p(x):=\sum_{n=0}^\infty \frac{2 \, n - 5}{\left(3 \, n\right)!}x^n.</me>
+            <ol>
+                <li>Find <m>p_{ 2 }(x)</m>, the degree <m>2</m> polynomial approximation for <m>p(x)</m>.</li>
+                <li>Use <m>p_{ 2 }(x)</m> to estimate <m>p(-3)</m> by computing <m>p_{ 2 }(-3)</m>.</li>
+                <li>Use <m>p_{ 2 }(x)</m> to estimate <m>\displaystyle \int_{ -3 }^{ 1 }p(x)dx</m> by computing <m>\displaystyle \int_{ -3 }^{ 1 }p_{ 2 }(x)dx</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li> <m> p_{ 2 }(x)=-\frac{1}{720} \, x^{2} - \frac{1}{2} \, x - 5</m>.</li>
+                <li><m>p_{ 2 }(-3) = -\frac{281}{80}</m>.</li>
+                <li><m> \displaystyle \int_{ -3 }^{ 1 }p_{ 2 }(x)dx = -\frac{9727}{540}</m>.</li>
+            </ol>
+    </answer>
+</exercise>

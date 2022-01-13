@@ -1,0 +1,24 @@
+<exercise checkit-seed="0002" checkit-slug="TI7" checkit-title="Integration strategy">
+    <statement>
+        <p>
+            For each of the following integrals, describe which strategy you would use to integrate it, and why that is the best choice.  (You do <em>not</em> need to actually compute the integral.)
+            <ol>
+                <li><m>\displaystyle \int \sqrt{x^{2} - 16}dx</m>.</li>
+                <li><m>\displaystyle \int -5 \, x^{3} \sin\left(x\right)dx</m>.</li>
+                <li><m>\displaystyle \int \frac{5}{{\left(x + 5\right)} x}dx</m>.</li>
+                <li><m>\displaystyle \int -40 \, {\left(x^{2} - 3\right)}^{4} xdx</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <ol>
+                <li>Trigonometric substitution.</li>
+                <li>Integration by parts.</li>
+                <li>Partial fractions.</li>
+                <li>Substitution.</li>
+            </ol>
+        </p>
+    </answer>
+</exercise>

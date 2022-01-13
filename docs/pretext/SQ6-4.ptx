@@ -1,0 +1,26 @@
+<exercise checkit-seed="0004" checkit-slug="SQ6" checkit-title="Comparison tests">
+    <statement>
+        <p>
+            For each of the following series, determine if it converges or diverges, and explain your choice.
+            <ol>
+                <li>
+                    <m>\displaystyle \sum_{n= 4 }^\infty \frac{3}{\log\left(n\right) + 2}.</m>
+                </li>
+                <li>
+                    <m>\displaystyle \sum_{n= 3 }^\infty \frac{1}{3 \, n + 4}.</m>
+                </li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+        <ol>
+                <li>
+                        <m>\displaystyle \sum_{n= 4 }^\infty \frac{3}{\log\left(n\right) + 2}</m> diverges.
+                </li>
+                <li>
+                        <m>\displaystyle \sum_{n= 3 }^\infty \frac{1}{3 \, n + 4}</m> diverges.
+                </li>
+            </ol>
+    </answer>
+</exercise>

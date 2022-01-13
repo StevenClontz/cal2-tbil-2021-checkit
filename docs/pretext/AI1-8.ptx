@@ -1,0 +1,13 @@
+<exercise checkit-seed="0008" checkit-slug="AI1" checkit-title="Average Values">
+    <statement>
+        <p>
+            Find an integral that computes the average value of <m>f(x)=-x^{2} - x - 4 \, \cos\left(\pi x\right) - 4</m> over the interval <m>[2, 4]</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            The average value of <m>f(x)=-x^{2} - x - 4 \, \cos\left(\pi x\right) - 4</m> over the interval <m>[2, 4]</m> is <me>\frac{1}{ 4-2 } \int_{ 2 }^{ 4 } -x^{2} - x - 4 \, \cos\left(\pi x\right) - 4dx= -\frac{49}{3}.</me>
+        </p>
+    </answer>
+</exercise>

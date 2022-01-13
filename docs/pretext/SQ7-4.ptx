@@ -1,0 +1,15 @@
+<exercise checkit-seed="0004" checkit-slug="SQ7" checkit-title="Ratio and Root tests">
+    <statement>
+        <p>
+            Use the <em>ratio</em> or <em>root</em> test to determine if 
+                <m>\displaystyle \sum_{n=1}^\infty \frac{5 \, n^{2} + 3}{3 \cdot 3^{n}}</m>
+            converges or diverges.
+            
+        </p>        
+    </statement>
+    <answer>
+            
+                        <m>\displaystyle \sum_{n=1}^\infty \frac{5 \, n^{2} + 3}{3 \cdot 3^{n}}</m> converges.                
+                      
+    </answer>
+</exercise>

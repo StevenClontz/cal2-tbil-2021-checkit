@@ -1,0 +1,39 @@
+<exercise checkit-seed="0007" checkit-slug="TI2" checkit-title="Integration by parts">
+    <statement>
+        <ol>
+            <li>
+                <p>
+                    Explain how to find the anti-derivative of <m>f(x)=-5 \, x^{3} e^{x}</m>.
+                    
+                </p>
+                
+            </li>
+            <li>
+                <p>
+                    Explain how to evaluate the following definite integral:
+                    <me>
+                        \int_{ 3 }^{ 6 } -5 \, x^{3} e^{x} dx.
+                    </me>
+                </p>
+            </li>
+        </ol>
+        
+        
+    </statement>
+    <answer>
+        <ol>
+            <li>
+                <p>
+                    <m>\displaystyle \int -5 \, x^{3} e^{x} dx=-5 \, x^{3} e^{x} + 15 \, x^{2} e^{x} - 30 \, x e^{x} + 30 \, e^{x}+C.</m>
+                </p>
+                
+            </li>
+            <li>
+                <p>
+                    <m>\displaystyle \int_{ 3 }^{ 6 } -5 \, x^{3} e^{x} dx = -690 \, e^{6} + 60 \, e^{3}.</m>
+                </p>
+                
+            </li>
+        </ol>
+    </answer>
+</exercise>

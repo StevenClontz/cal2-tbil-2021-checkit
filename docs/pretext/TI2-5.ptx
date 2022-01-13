@@ -1,0 +1,39 @@
+<exercise checkit-seed="0005" checkit-slug="TI2" checkit-title="Integration by parts">
+    <statement>
+        <ol>
+            <li>
+                <p>
+                    Explain how to find the anti-derivative of <m>f(x)=3 \, x \cos\left(x\right)</m>.
+                    
+                </p>
+                
+            </li>
+            <li>
+                <p>
+                    Explain how to evaluate the following definite integral:
+                    <me>
+                        \int_{ -2 }^{ 3 } 3 \, x \cos\left(x\right) dx.
+                    </me>
+                </p>
+            </li>
+        </ol>
+        
+        
+    </statement>
+    <answer>
+        <ol>
+            <li>
+                <p>
+                    <m>\displaystyle \int 3 \, x \cos\left(x\right) dx=3 \, x \sin\left(x\right) + 3 \, \cos\left(x\right)+C.</m>
+                </p>
+                
+            </li>
+            <li>
+                <p>
+                    <m>\displaystyle \int_{ -2 }^{ 3 } 3 \, x \cos\left(x\right) dx = 3 \, \cos\left(3\right) - 3 \, \cos\left(2\right) + 9 \, \sin\left(3\right) - 6 \, \sin\left(2\right).</m>
+                </p>
+                
+            </li>
+        </ol>
+    </answer>
+</exercise>

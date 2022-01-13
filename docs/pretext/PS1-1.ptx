@@ -1,0 +1,20 @@
+<exercise checkit-seed="0001" checkit-slug="PS1" checkit-title="Power series">
+    <statement>
+        <p>
+            Consider a function <m>p(x)</m> defined by <me>p(x):=\sum_{n=0}^\infty \frac{3 \, n + 1}{n!}x^n.</me>
+            <ol>
+                <li>Find <m>p_{ 3 }(x)</m>, the degree <m>3</m> polynomial approximation for <m>p(x)</m>.</li>
+                <li>Use <m>p_{ 3 }(x)</m> to estimate <m>p(-3)</m> by computing <m>p_{ 3 }(-3)</m>.</li>
+                <li>Use <m>p_{ 3 }(x)</m> to estimate <m>\displaystyle \int_{ -3 }^{ 2 }p(x)dx</m> by computing <m>\displaystyle \int_{ -3 }^{ 2 }p_{ 3 }(x)dx</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li> <m> p_{ 3 }(x)=\frac{5}{3} \, x^{3} + \frac{7}{2} \, x^{2} + 4 \, x + 1</m>.</li>
+                <li><m>p_{ 3 }(-3) = -\frac{49}{2}</m>.</li>
+                <li><m> \displaystyle \int_{ -3 }^{ 2 }p_{ 3 }(x)dx = \frac{35}{4}</m>.</li>
+            </ol>
+    </answer>
+</exercise>

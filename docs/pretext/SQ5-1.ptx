@@ -1,0 +1,40 @@
+<exercise checkit-seed="0001" checkit-slug="SQ5" checkit-title="Basic convergence tests">
+    <statement>
+        <p>
+            For each of the following series, use the <em>Divergence</em>, <em>Alternating Summation</em> or <em>Integral</em> test to determine if the series converges.
+        </p>
+        <ol>
+            <li>
+                <m>\displaystyle \sum_{n=1}^\infty \frac{1}{n^{4}}.</m>
+            </li>            
+            <li>
+                <m>\displaystyle \sum_{n=1}^\infty \frac{5 \, n^{4} + n^{2} + 5 \, n}{2 \, n^{4}}.</m>
+            </li>            
+            <li>
+                <m>\displaystyle \sum_{n=1}^\infty \frac{{\left(3 \, n^{4} + n^{2} + 4 \, n\right)} \left(-1\right)^{n + 1}}{n^{5} + 4 \, n^{4} + 3 \, n^{2}}.</m>
+            </li>            
+        </ol>
+    </statement>
+    <answer>
+       <ol>
+            <li>
+                
+                        <m>\displaystyle \sum_{n=1}^\infty \frac{1}{n^{4}}</m> converges by the <em>Integral</em> test.                
+                   
+                
+            </li>            
+            <li>
+                
+                        <m>\displaystyle \sum_{n=1}^\infty \frac{5 \, n^{4} + n^{2} + 5 \, n}{2 \, n^{4}}</m> diverges by the <em>Divergence</em> test.               
+                   
+                
+            </li>            
+            <li>
+                
+                        <m>\displaystyle \sum_{n=1}^\infty \frac{{\left(3 \, n^{4} + n^{2} + 4 \, n\right)} \left(-1\right)^{n + 1}}{n^{5} + 4 \, n^{4} + 3 \, n^{2}}</m> converges by the <em>Alternating Summation</em> test.                
+                   
+                
+            </li>            
+        </ol>
+    </answer>
+</exercise>

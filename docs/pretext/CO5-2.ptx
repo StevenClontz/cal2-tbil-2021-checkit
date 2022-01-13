@@ -1,0 +1,13 @@
+<exercise checkit-seed="0002" checkit-slug="CO5" checkit-title="Polar arclength">
+    <statement>
+        <p>
+            Find an integral computing the arclength of the polar curved defined by <m>r=3 \, \cos\left({\theta}\right) - 2</m> on <m>\frac{1}{3} \, \pi\leq \theta \leq \pi</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <m>\displaystyle \int_{ \frac{1}{3} \, \pi }^{ \pi }\sqrt{\left(-3 \, \sin\left({\theta}\right)\right)^2+\left(3 \, \cos\left({\theta}\right) - 2\right)^2 } d\theta</m>.
+        </p>
+    </answer>
+</exercise>

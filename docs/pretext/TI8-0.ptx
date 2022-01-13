@@ -1,0 +1,22 @@
+<exercise checkit-seed="0000" checkit-slug="TI8" checkit-title="Improper integrals">
+    <statement>
+        <p>
+             Determine which of the following integrals coverges and which diverges.  If an integral diverges, explain why.  If it converges, explain to which value it converges.
+        </p>
+        <ol>
+            <li><m>\displaystyle\int_{ 3 }^{ 5 } \frac{1}{{\left(x - 3\right)}^{2}} dx.</m></li>
+            <li><m>\displaystyle\int_{ 5 }^{ \infty } \frac{1}{{\left(x - 3\right)}^{2}} dx.</m></li>
+        </ol>
+    </statement>
+    <answer>
+       <ol>
+            <li>
+                <m>\displaystyle\int_{ 3 }^{ 5 } \frac{1}{{\left(x - 3\right)}^{2}} dx</m> diverges.               
+            </li>            
+           
+            <li>
+                <m>\displaystyle\int_{ 5 }^{ \infty } \frac{1}{{\left(x - 3\right)}^{2}} dx</m> converges to <m>\frac{1}{2}</m>.                
+            </li>            
+        </ol>
+    </answer>
+</exercise>

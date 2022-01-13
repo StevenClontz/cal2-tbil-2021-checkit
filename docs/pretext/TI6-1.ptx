@@ -1,0 +1,11 @@
+<exercise checkit-seed="0001" checkit-slug="TI6" checkit-title="Partial fractions">
+    <statement>
+        
+        <p>
+            Consider the partial fraction decomposition <me> \frac{5 \, x + 16}{x^{2} + 4 \, x}=\frac{1}{x + 4} + \frac{4}{x}.</me>  Use this decmposition to compute <m>\displaystyle\int \frac{5 \, x + 16}{x^{2} + 4 \, x}dx</m>.
+        </p>
+    </statement>
+    <answer>
+        <me>\displaystyle\int \frac{5 \, x + 16}{x^{2} + 4 \, x}dx=\displaystyle\int \frac{1}{x + 4} + \frac{4}{x}dx=\log\left(x + 4\right) + 4 \, \log\left(x\right)+C.</me>
+    </answer>
+</exercise>

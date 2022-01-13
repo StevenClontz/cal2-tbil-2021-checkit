@@ -1,0 +1,26 @@
+<exercise checkit-seed="0008" checkit-slug="SQ6" checkit-title="Comparison tests">
+    <statement>
+        <p>
+            For each of the following series, determine if it converges or diverges, and explain your choice.
+            <ol>
+                <li>
+                    <m>\displaystyle \sum_{n= 2 }^\infty \frac{2}{2 \, n + 3}.</m>
+                </li>
+                <li>
+                    <m>\displaystyle \sum_{n= 3 }^\infty \frac{3}{\log\left(n\right) + 3}.</m>
+                </li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+        <ol>
+                <li>
+                        <m>\displaystyle \sum_{n= 2 }^\infty \frac{2}{2 \, n + 3}</m> diverges.
+                </li>
+                <li>
+                        <m>\displaystyle \sum_{n= 3 }^\infty \frac{3}{\log\left(n\right) + 3}</m> diverges.
+                </li>
+            </ol>
+    </answer>
+</exercise>

@@ -1,0 +1,11 @@
+<exercise checkit-seed="0009" checkit-slug="CO3" checkit-title="Parametric/vector arclength">
+    <statement>
+        <p>
+            Given the vector equation <m>\hat{ g }(t)=\langle -\frac{3}{4} \cdot 3^{t}, \frac{5}{3} \, t + 4 \rangle</m>, write a definite integral which computes the length of the curve defined by <m>5\leq t \leq 12</m>.
+        </p>
+        
+    </statement>
+    <answer>
+            <m>\displaystyle \int_{ 5 }^{ 12 } \sqrt{ \left( -\frac{3}{4} \cdot 3^{t} \log\left(3\right)\right)^2+\left( \frac{5}{3}\right)^2} dt</m>.
+    </answer>
+</exercise>

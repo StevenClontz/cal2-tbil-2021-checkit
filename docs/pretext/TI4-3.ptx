@@ -1,0 +1,14 @@
+<exercise checkit-seed="0003" checkit-slug="TI4" checkit-title="Trigonometric Substitution">
+    <statement>
+        <p>
+Find the appropriate trignometric substitution for <m>x</m> and rewrite <me>\int x^{2} + 9 dx</me> as an integral in terms of <m>\theta</m>.
+        </p>
+        
+    </statement>
+    <answer>
+        We substitute <m>x=3 \, \tan\left(\theta\right).</m>  Then <m>dx=3 \, \sec\left(\theta\right)d\theta</m> and:
+        <me>
+\int x^{2} + 9 dx = \int 27 \, {\left(\tan\left(\theta\right)^{2} + 1\right)} \sec\left(\theta\right) d\theta = \int 27 \, \sec\left(\theta\right)^{3} d\theta.
+        </me>
+    </answer>
+</exercise>

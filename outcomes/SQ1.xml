@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+    <statement>
+        <ol>
+            <li>
+                Find the first 5 terms of the following sequence:
+                <ul>
+                    {{#Closed}}
+                    <li><m>a_n={{Formula}}.</m></li>
+                    {{/Closed}},
+                </ul>
+            </li>
+            <li>
+                Find a closed form for the following sequence:
+                <ul>
+                    {{#Given}}
+                    <li><m>{{t0}}, {{t1}}, {{t2}}, {{t3}}, {{t4}},\ldots</m></li>
+                    {{/Given}},
+                </ul>
+            </li>
+            <li>
+                Find a recursive form for the following sequence:
+                <ul>
+                    {{#Recursive}}
+                    <li><m>{{t0}}, {{t1}}, {{t2}}, {{t3}}, {{t4}},\ldots</m></li>
+                    {{/Recursive}},
+                </ul>
+            </li>
+            
+            
+        </ol>
+    </statement>
+    <answer>
+        <ol>
+            <li>
+                <ul>
+                    {{#Closed}}
+                    <li><m>{{t1}}, {{t2}}, {{t3}}, {{t4}}, {{t5}}</m> if you start with <m> n=1</m>, or <m>{{t0}}, {{t1}}, {{t2}}, {{t3}}, {{t4}}</m> if you start with <m> n=0</m>.</li>
+                    {{/Closed}},
+                </ul>
+            </li>
+            
+            <li>
+                <ul>
+                    {{#Given}}
+                    <li>Answers can vary depending on your choice of starting index.  For example, <m>{{Formula}}</m> if <m> n=0,1,...</m>.</li>
+                    {{/Given}},
+                </ul>
+            </li>
+            
+            <li>
+                <ul>
+                    {{#Recursive}}
+                    <li>Answers can vary depending on your choice of starting index.  For example, if <m>a_0={{t0}}</m> then <m>a_n={{c}}a_{n-1}+{{tail}}</m>.</li>
+                    {{/Recursive}},
+                </ul>
+            </li>
+            
+           
+        </ol>
+    </answer>
+</exercise>

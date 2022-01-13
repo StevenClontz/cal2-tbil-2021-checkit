@@ -1,0 +1,26 @@
+<exercise checkit-seed="0003" checkit-slug="SQ6" checkit-title="Comparison tests">
+    <statement>
+        <p>
+            For each of the following series, determine if it converges or diverges, and explain your choice.
+            <ol>
+                <li>
+                    <m>\displaystyle \sum_{n= 4 }^\infty \frac{3}{3 \, n^{2} + 4}.</m>
+                </li>
+                <li>
+                    <m>\displaystyle \sum_{n= 4 }^\infty \frac{1}{2^{n}}.</m>
+                </li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+        <ol>
+                <li>
+                        <m>\displaystyle \sum_{n= 4 }^\infty \frac{3}{3 \, n^{2} + 4}</m> converges.
+                </li>
+                <li>
+                        <m>\displaystyle \sum_{n= 4 }^\infty \frac{1}{2^{n}}</m> converges.
+                </li>
+            </ol>
+    </answer>
+</exercise>

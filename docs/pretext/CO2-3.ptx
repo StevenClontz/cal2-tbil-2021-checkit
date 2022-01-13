@@ -1,0 +1,27 @@
+<exercise checkit-seed="0003" checkit-slug="CO2" checkit-title="Parametric/vector derivatives">
+    <statement>
+        <p>
+            Given the vector equation <m>\hat{ s }(t)=\langle 2 \, t^{3} - t - 4, -t^{3} - 2 \, t - 4 \rangle</m>:
+            
+            <ol>
+                <li>Find <m>\frac{dx}{dt}, \frac{dy}{dt}</m>.</li>
+                <li>Find <m>\frac{dy}{dx}</m>.</li>
+                <li>Find the point, tangent slope, and tangent line equation corresponding to the parameter  <m>t=3</m>.</li>
+            </ol>
+        </p>
+        
+    </statement>
+    <answer>
+            <ol>
+                <li><m>\frac{dx}{dt}=6 \, t^{2} - 1, \frac{dy}{dt}=-3 \, t^{2} - 2</m>.</li>
+                <li><m>\frac{dy}{dx}=\frac{ -3 \, t^{2} - 2 }{ 6 \, t^{2} - 1 }</m>.</li>
+                <li>
+                    <ul>
+                        <li>Point: <m>(47, -37).</m></li>
+                        <li>Slope: <m>m=-\frac{29}{53}.</m></li>
+                        <li>Tangent line: <m>y=-\frac{29}{53} \, x - \frac{598}{53}.</m></li>
+                    </ul>
+                </li>
+            </ol>
+    </answer>
+</exercise>

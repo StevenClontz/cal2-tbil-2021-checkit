@@ -1,0 +1,28 @@
+<exercise checkit-seed="0009" checkit-slug="AI3" checkit-title="Volumes of Revolution">
+    <statement>
+        <p>
+            Consider the region bound by <m>y=3 \, e^{x},  x=4, x=7</m>.  
+            
+            <ol>
+                <li>Find an integral which computes the volume of the solid formed by rotating this region about the <m>x</m>-axis.</li>
+                <li>Find an integral which computes the volume of the solid formed by rotating this region about the <m>y</m>-axis.</li>
+            </ol>
+            
+        </p>
+        
+    </statement>
+    <answer>
+        <p>
+            <ol>
+                <li>Using the washer/disk method, we obtain <me>\int_{ 4 }^{ 7 } \pi \left(3 \, e^{x}\right)^2dx</me> and using the shell method, we obtain 
+                    <me>\int_0^{ 3 \, e^{4} } 2\pi y\left( 7-4\right)dy +\int_{ 3 \, e^{4} }^{ 3 \, e^{7} } 2\pi y\left( 7-\left(\log\left(\frac{1}{3} \, y\right)\right)\right)dy.</me></li>
+                
+                
+                <li>Using the washer/disk method, we obtain 
+                    <me>\int_0^{ 3 \, e^{4} } \pi\left(7^2-4^2\right)dy + \int_{ 3 \, e^{4} }^{ 3 \, e^{7} } \pi\left(7^2-\left(\log\left(\frac{1}{3} \, y\right)\right)^2\right)dy</me> and using the shell method, we obtain 
+                    <me>\int_{ 4 }^{ 7 }2\pi x \left(3 \, e^{x}\right)dx.</me>
+                </li>    
+            </ol>
+        </p>
+    </answer>
+</exercise>
