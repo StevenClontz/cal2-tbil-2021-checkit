@@ -3,10 +3,10 @@
         <p>
             For each of the following integrals, describe which strategy you would use to integrate it, and why that is the best choice.  (You do <em>not</em> need to actually compute the integral.)
             <ol>
+                <li><m>\displaystyle \int \sqrt{-x^{2} + 4}dx</m>.</li>
                 <li><m>\displaystyle \int \frac{4 \, \cos\left(x\right)}{\sin\left(x\right)}dx</m>.</li>
-                <li><m>\displaystyle \int \sqrt{-x^{2} + 16}dx</m>.</li>
-                <li><m>\displaystyle \int \frac{4 \, {\left(2 \, x + 5\right)}}{{\left(x + 3\right)} {\left(x + 2\right)}}dx</m>.</li>
                 <li><m>\displaystyle \int -5 \, x^{3} \cos\left(x\right)dx</m>.</li>
+                <li><m>\displaystyle \int \frac{4 \, {\left(2 \, x - 1\right)}}{{\left(x + 2\right)} {\left(x - 3\right)}}dx</m>.</li>
             </ol>
         </p>
         
@@ -14,10 +14,10 @@
     <answer>
         <p>
             <ol>
-                <li>Substitution.</li>
                 <li>Trigonometric substitution.</li>
-                <li>Partial fractions.</li>
+                <li>Substitution.</li>
                 <li>Integration by parts.</li>
+                <li>Partial fractions.</li>
             </ol>
         </p>
     </answer>

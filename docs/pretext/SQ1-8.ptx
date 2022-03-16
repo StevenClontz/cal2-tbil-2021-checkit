@@ -4,14 +4,14 @@
             <li>
                 Find the first 5 terms of the following sequence:
                 <ul>
-                    <li><m>a_n=-3 \, \left(-\frac{1}{4}\right)^{n}.</m></li>
+                    <li><m>a_n=n^{2} + 5.</m></li>
                     ,
                 </ul>
             </li>
             <li>
                 Find a closed form for the following sequence:
                 <ul>
-                    <li><m>5, 6, 9, 14, 21,\ldots</m></li>
+                    <li><m>-3, \frac{3}{4}, -\frac{3}{16}, \frac{3}{64}, -\frac{3}{256},\ldots</m></li>
                     ,
                 </ul>
             </li>
@@ -30,14 +30,14 @@
         <ol>
             <li>
                 <ul>
-                    <li><m>\frac{3}{4}, -\frac{3}{16}, \frac{3}{64}, -\frac{3}{256}, \frac{3}{1024}</m> if you start with <m> n=1</m>, or <m>-3, \frac{3}{4}, -\frac{3}{16}, \frac{3}{64}, -\frac{3}{256}</m> if you start with <m> n=0</m>.</li>
+                    <li><m>6, 9, 14, 21, 30</m> if you start with <m> n=1</m>, or <m>5, 6, 9, 14, 21</m> if you start with <m> n=0</m>.</li>
                     ,
                 </ul>
             </li>
             
             <li>
                 <ul>
-                    <li>Answers can vary depending on your choice of starting index.  For example, <m>n^{2} + 5</m> if <m> n=0,1,...</m>.</li>
+                    <li>Answers can vary depending on your choice of starting index.  For example, <m>-3 \, \left(-\frac{1}{4}\right)^{n}</m> if <m> n=0,1,...</m>.</li>
                     ,
                 </ul>
             </li>

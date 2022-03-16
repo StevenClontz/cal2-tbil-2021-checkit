@@ -2,7 +2,7 @@
 
             <statement>
                 <p>
-                    Suppose a  bucket of water if being pulled into the air by a rope at a constant rate.  The bucket is constantly losing water as it's pulled up, so at a height of <m>h</m> meters, the mass of the bucket is <m>m(h)=5 \, e^{\left(-h\right)} + 15</m> kg.  Find an integral which computes how much work is needed to lift the bucket <m>40</m> meters into the air.  Recall that the acceleration of gravity is 9.8 m<m>/\text{s}^2</m>.
+                    Suppose a  bucket of water is being pulled into the air by a rope at a constant rate.  The bucket is constantly losing water as it's pulled up, so at a height of <m>h</m> meters, the mass of the bucket is <m>m(h)=5 \, e^{\left(-h\right)} + 15</m> kg.  Find an integral which computes how much work is needed to lift the bucket <m>40</m> meters into the air.  Recall that the acceleration of gravity is 9.8 m<m>/\text{s}^2</m>.
                 </p>
             </statement>
             <answer>

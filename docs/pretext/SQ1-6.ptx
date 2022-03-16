@@ -4,7 +4,7 @@
             <li>
                 Find the first 5 terms of the following sequence:
                 <ul>
-                    <li><m>a_n=5 \, n^{2} + 4.</m></li>
+                    <li><m>a_n=-4 \, n - 4.</m></li>
                     ,
                 </ul>
             </li>
@@ -18,7 +18,7 @@
             <li>
                 Find a recursive form for the following sequence:
                 <ul>
-                    <li><m>-4, -8, -12, -16, -20,\ldots</m></li>
+                    <li><m>4, 5, 8, 13, 20,\ldots</m></li>
                     ,
                 </ul>
             </li>
@@ -30,7 +30,7 @@
         <ol>
             <li>
                 <ul>
-                    <li><m>9, 24, 49, 84, 129</m> if you start with <m> n=1</m>, or <m>4, 9, 24, 49, 84</m> if you start with <m> n=0</m>.</li>
+                    <li><m>-8, -12, -16, -20, -24</m> if you start with <m> n=1</m>, or <m>-4, -8, -12, -16, -20</m> if you start with <m> n=0</m>.</li>
                     ,
                 </ul>
             </li>
@@ -44,7 +44,7 @@
             
             <li>
                 <ul>
-                    <li>Answers can vary depending on your choice of starting index.  For example, if <m>a_0=-4</m> then <m>a_n=1a_{n-1}+-4</m>.</li>
+                    <li>Answers can vary depending on your choice of starting index.  For example, if <m>a_0=4</m> then <m>a_n=1a_{n-1}+2 \, n - 1</m>.</li>
                     ,
                 </ul>
             </li>

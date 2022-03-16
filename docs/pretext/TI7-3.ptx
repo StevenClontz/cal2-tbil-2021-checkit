@@ -3,10 +3,10 @@
         <p>
             For each of the following integrals, describe which strategy you would use to integrate it, and why that is the best choice.  (You do <em>not</em> need to actually compute the integral.)
             <ol>
-                <li><m>\displaystyle \int \frac{\sin\left(x\right)}{\sqrt{\cos\left(x\right)}}dx</m>.</li>
-                <li><m>\displaystyle \int -\frac{2 \, {\left(x - 8\right)}}{{\left(x - 4\right)} x}dx</m>.</li>
-                <li><m>\displaystyle \int x^{3} e^{x}dx</m>.</li>
+                <li><m>\displaystyle \int -\frac{2 \, {\left(x + 6\right)}}{{\left(x + 1\right)} {\left(x - 4\right)}}dx</m>.</li>
                 <li><m>\displaystyle \int \sqrt{x^{2} - 4}dx</m>.</li>
+                <li><m>\displaystyle \int \frac{\sin\left(x\right)}{\sqrt{\cos\left(x\right)}}dx</m>.</li>
+                <li><m>\displaystyle \int x^{3} e^{x}dx</m>.</li>
             </ol>
         </p>
         
@@ -14,10 +14,10 @@
     <answer>
         <p>
             <ol>
-                <li>Substitution.</li>
                 <li>Partial fractions.</li>
-                <li>Integration by parts.</li>
                 <li>Trigonometric substitution.</li>
+                <li>Substitution.</li>
+                <li>Integration by parts.</li>
             </ol>
         </p>
     </answer>

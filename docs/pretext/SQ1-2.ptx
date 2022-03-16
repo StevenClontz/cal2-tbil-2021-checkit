@@ -4,21 +4,21 @@
             <li>
                 Find the first 5 terms of the following sequence:
                 <ul>
-                    <li><m>a_n=-3 \, n + 4.</m></li>
+                    <li><m>a_n=-5 \, \left(-2\right)^{n}.</m></li>
                     ,
                 </ul>
             </li>
             <li>
                 Find a closed form for the following sequence:
                 <ul>
-                    <li><m>1, 5, 17, 37, 65,\ldots</m></li>
+                    <li><m>4, 1, -2, -5, -8,\ldots</m></li>
                     ,
                 </ul>
             </li>
             <li>
                 Find a recursive form for the following sequence:
                 <ul>
-                    <li><m>-5, 10, -20, 40, -80,\ldots</m></li>
+                    <li><m>1, 2, 5, 10, 17,\ldots</m></li>
                     ,
                 </ul>
             </li>
@@ -30,21 +30,21 @@
         <ol>
             <li>
                 <ul>
-                    <li><m>1, -2, -5, -8, -11</m> if you start with <m> n=1</m>, or <m>4, 1, -2, -5, -8</m> if you start with <m> n=0</m>.</li>
+                    <li><m>10, -20, 40, -80, 160</m> if you start with <m> n=1</m>, or <m>-5, 10, -20, 40, -80</m> if you start with <m> n=0</m>.</li>
                     ,
                 </ul>
             </li>
             
             <li>
                 <ul>
-                    <li>Answers can vary depending on your choice of starting index.  For example, <m>4 \, n^{2} + 1</m> if <m> n=0,1,...</m>.</li>
+                    <li>Answers can vary depending on your choice of starting index.  For example, <m>-3 \, n + 4</m> if <m> n=0,1,...</m>.</li>
                     ,
                 </ul>
             </li>
             
             <li>
                 <ul>
-                    <li>Answers can vary depending on your choice of starting index.  For example, if <m>a_0=-5</m> then <m>a_n=-2a_{n-1}+0</m>.</li>
+                    <li>Answers can vary depending on your choice of starting index.  For example, if <m>a_0=1</m> then <m>a_n=1a_{n-1}+2 \, n - 1</m>.</li>
                     ,
                 </ul>
             </li>

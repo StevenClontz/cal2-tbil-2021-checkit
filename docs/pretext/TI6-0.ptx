@@ -2,7 +2,7 @@
     <statement>
         
         <p>
-            Consider the partial fraction decomposition <me> -\frac{x^{2} + 5 \, x - 11}{x^{3} - 4 \, x^{2} + 9 \, x - 36}=-\frac{5}{x^{2} + 9} - \frac{1}{x - 4}.</me>  Use this decmposition to compute <m>\displaystyle\int -\frac{x^{2} + 5 \, x - 11}{x^{3} - 4 \, x^{2} + 9 \, x - 36}dx</m>.
+            Consider the partial fraction decomposition <me> -\frac{x^{2} + 5 \, x - 11}{x^{3} - 4 \, x^{2} + 9 \, x - 36}=-\frac{5}{x^{2} + 9} - \frac{1}{x - 4}.</me>  Use this decomposition to compute <m>\displaystyle\int -\frac{x^{2} + 5 \, x - 11}{x^{3} - 4 \, x^{2} + 9 \, x - 36}dx</m>.
         </p>
     </statement>
     <answer>

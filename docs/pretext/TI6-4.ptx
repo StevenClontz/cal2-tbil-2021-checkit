@@ -2,7 +2,7 @@
     <statement>
         
         <p>
-            Consider the partial fraction decomposition <me> -\frac{x - 6}{x^{2} + 3 \, x - 4}=-\frac{2}{x + 4} + \frac{1}{x - 1}.</me>  Use this decmposition to compute <m>\displaystyle\int -\frac{x - 6}{x^{2} + 3 \, x - 4}dx</m>.
+            Consider the partial fraction decomposition <me> -\frac{x - 6}{x^{2} + 3 \, x - 4}=-\frac{2}{x + 4} + \frac{1}{x - 1}.</me>  Use this decomposition to compute <m>\displaystyle\int -\frac{x - 6}{x^{2} + 3 \, x - 4}dx</m>.
         </p>
     </statement>
     <answer>

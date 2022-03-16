@@ -3,7 +3,7 @@
         <ol>
             <li>
                 <p>
-                    Explain how to find the anti-derivative of <m>f(x)=4</m>.
+                    Explain how to find the anti-derivative of <m>f(x)=-\frac{5 \, \sin\left(\log\left(x\right)\right)}{x}</m>.
                     
                 </p>
                 
@@ -12,7 +12,7 @@
                 <p>
                     Explain how to evaluate the following definite integral:
                     <me>
-                        \int_{ \frac{2}{3} \, \pi }^{ 4 \, \pi } \sin\left(\frac{5}{2} \, x\right) dx.
+                        \int_{ 4 }^{ 6 } x^{2} e^{\left(2 \, x^{3}\right)} dx.
                     </me>
                 </p>
             </li>
@@ -24,13 +24,13 @@
         <ol>
             <li>
                 <p>
-                    <m>\displaystyle \int 4 dx=4 \, x+C.</m>
+                    <m>\displaystyle \int -\frac{5 \, \sin\left(\log\left(x\right)\right)}{x} dx=5 \, \cos\left(\log\left(x\right)\right)+C.</m>
                 </p>
                 
             </li>
             <li>
                 <p>
-                    <m>\displaystyle \int_{ \frac{2}{3} \, \pi }^{ 4 \, \pi } \sin\left(\frac{5}{2} \, x\right) dx = -\frac{1}{5}.</m>
+                    <m>\displaystyle \int_{ 4 }^{ 6 } x^{2} e^{\left(2 \, x^{3}\right)} dx = \frac{1}{6} \, e^{432} - \frac{1}{6} \, e^{128}.</m>
                 </p>
                 
             </li>

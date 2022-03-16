@@ -1,7 +1,7 @@
 <exercise checkit-seed="0008" checkit-slug="AI3" checkit-title="Volumes of Revolution">
     <statement>
         <p>
-            Consider the region bound by <m>y=\sqrt{2 \, x + 3},  x=2, x=6</m>.  
+            Consider the region bounded by <m>y=\sqrt{2 \, x + 3}, y=0,  x=2, x=6</m>.  
             
             <ol>
                 <li>Find an integral which computes the volume of the solid formed by rotating this region about the <m>x</m>-axis.</li>

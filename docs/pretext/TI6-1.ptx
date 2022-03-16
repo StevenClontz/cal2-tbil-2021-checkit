@@ -2,7 +2,7 @@
     <statement>
         
         <p>
-            Consider the partial fraction decomposition <me> \frac{5 \, x + 16}{x^{2} + 4 \, x}=\frac{1}{x + 4} + \frac{4}{x}.</me>  Use this decmposition to compute <m>\displaystyle\int \frac{5 \, x + 16}{x^{2} + 4 \, x}dx</m>.
+            Consider the partial fraction decomposition <me> \frac{5 \, x + 16}{x^{2} + 4 \, x}=\frac{1}{x + 4} + \frac{4}{x}.</me>  Use this decomposition to compute <m>\displaystyle\int \frac{5 \, x + 16}{x^{2} + 4 \, x}dx</m>.
         </p>
     </statement>
     <answer>

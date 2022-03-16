@@ -1,7 +1,7 @@
 <exercise checkit-seed="0007" checkit-slug="AI3" checkit-title="Volumes of Revolution">
     <statement>
         <p>
-            Consider the region bound by <m>y=5 \, e^{x},  x=5, x=8</m>.  
+            Consider the region bounded by <m>y=5 \, e^{x}, y=0,  x=5, x=8</m>.  
             
             <ol>
                 <li>Find an integral which computes the volume of the solid formed by rotating this region about the <m>x</m>-axis.</li>

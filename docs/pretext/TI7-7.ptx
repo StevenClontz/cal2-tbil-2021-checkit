@@ -4,9 +4,9 @@
             For each of the following integrals, describe which strategy you would use to integrate it, and why that is the best choice.  (You do <em>not</em> need to actually compute the integral.)
             <ol>
                 <li><m>\displaystyle \int 4dx</m>.</li>
-                <li><m>\displaystyle \int \sqrt{-x^{2} + 1}dx</m>.</li>
+                <li><m>\displaystyle \int \frac{1}{x^{2} + 16}dx</m>.</li>
                 <li><m>\displaystyle \int 4 \, x^{3} \cos\left(x\right)dx</m>.</li>
-                <li><m>\displaystyle \int -\frac{8 \, x + 17}{{\left(x + 4\right)} {\left(x - 1\right)}}dx</m>.</li>
+                <li><m>\displaystyle \int -\frac{8 \, x - 21}{{\left(x - 2\right)} {\left(x - 3\right)}}dx</m>.</li>
             </ol>
         </p>
         

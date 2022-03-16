@@ -2,7 +2,7 @@
     <statement>
         
         <p>
-            Consider the partial fraction decomposition <me> \frac{2 \, {\left(x^{2} - 6 \, x + 10\right)}}{x^{3} + 4 \, x^{2} + 4 \, x + 16}=-\frac{3 \, x}{x^{2} + 4} + \frac{5}{x + 4}.</me>  Use this decmposition to compute <m>\displaystyle\int \frac{2 \, {\left(x^{2} - 6 \, x + 10\right)}}{x^{3} + 4 \, x^{2} + 4 \, x + 16}dx</m>.
+            Consider the partial fraction decomposition <me> \frac{2 \, {\left(x^{2} - 6 \, x + 10\right)}}{x^{3} + 4 \, x^{2} + 4 \, x + 16}=-\frac{3 \, x}{x^{2} + 4} + \frac{5}{x + 4}.</me>  Use this decomposition to compute <m>\displaystyle\int \frac{2 \, {\left(x^{2} - 6 \, x + 10\right)}}{x^{3} + 4 \, x^{2} + 4 \, x + 16}dx</m>.
         </p>
     </statement>
     <answer>
