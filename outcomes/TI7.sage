@@ -1,5 +1,6 @@
 def generator():
     from sage.symbolic.integration.integral import definite_integral
+    import random # SB: this is needed for the c vs. d thing in partials
     
     x=var("x")
 
@@ -45,15 +46,18 @@ def generator():
     
     a=randint(1,5)*choice([-1,1])
     b=randint(1,5)*choice([-1,1])
-    c=randint(-5,5)
-    d=randint(-5,5)
+    # SB: If a = -b and c = d, then h works out to be 0.
+    # Fix: Force c != d. 
+    #c=randint(-5,5)
+    #d=randint(-5,5)
+    [c, d] = random.sample(range(-5, 5), 2)
     
     h=(a*(x-d)+b*(x-c))/((x-c)*(x-d))
     
     partial=[h, 'Partial fractions']
     
     ftrig=choice([
-            1/(x+randint(1,5)^2),
+            1/(x^2+randint(1,5)^2), #SB EDIT: used to be x, now is x^2
             sqrt(randint(1,5)^2-x^2),
             sqrt(x^2-randint(1,5)^2),
         ])

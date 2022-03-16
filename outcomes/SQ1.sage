@@ -45,7 +45,7 @@ def generator():
     
     #define a 'quadratic' sequence
     initialA3=randint(0,5)
-    aA3=randint(1,5)
+    aA3=1
     A3(n)=aA3*n^2+initialA3
     m=aA3*2
     k=-aA3

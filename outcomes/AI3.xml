@@ -2,7 +2,7 @@
 <exercise xmlns="https://spatext.clontz.org" version="0.0">
     <statement>
         <p>
-            Consider the region bound by <m>y={{ f }},  x={{a}}, x={{b}}</m>.  
+            Consider the region bounded by <m>y={{ f }}, y=0,  x={{a}}, x={{b}}</m>.  
             
             <ol>
                 <li>Find an integral which computes the volume of the solid formed by rotating this region about the <m>x</m>-axis.</li>

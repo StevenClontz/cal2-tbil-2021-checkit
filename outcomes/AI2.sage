@@ -2,17 +2,15 @@ def generator():
     x=var("x")
     from sage.symbolic.integration.integral import definite_integral
 
+    f(x)=0
     
-    
-    
-    functions=[
-        sqrt(randint(1,5)*x+randint(1,5)),
-        randint(1,5)*e^(randint(1,5)*choice([-1,1])*x)+randint(-5,5),
-        randint(1,5)*choice([-1,1])*x^randint(1,5)+randint(1,5)*choice([-1,1])*x^randint(1,5)
-        
-    ]
-    
-    f(x)=choice(functions)
+    while f(x)==0:
+        functions=[
+            sqrt(randint(1,5)*x+randint(1,5)),
+            randint(1,5)*e^(randint(1,5)*choice([-1,1])*x)+randint(-5,5),
+            randint(1,5)*choice([-1,1])*x^randint(1,5)+randint(1,5)*choice([-1,1])*x^randint(1,5)
+        ]
+        f(x)=choice(functions)
     
     fp(x)=diff(f(x),x)
     

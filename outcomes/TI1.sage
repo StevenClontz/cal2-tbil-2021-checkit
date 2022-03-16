@@ -9,7 +9,10 @@ def generator():
     out(x)=0
     u(x)=0
     
-    while(out(x)==u(x)):
+    f=x
+    
+        
+    while(out(x)==u(x) or derivative(f, x, 2)==0):
         outfactors = [
             x^randint(2,5),
             sqrt(x),
@@ -33,10 +36,10 @@ def generator():
         out(x)=outfactors[0]
         u(x)=ufactors[0]
     
-    k=randint(1,5)*choice([-1,1])
+        k=randint(1,5)*choice([-1,1])
     
     
-    f=k*out(u(x))
+        f=k*out(u(x))
     
     
     dfdx=f.diff()

@@ -5,7 +5,6 @@ def generator():
     subtype=choice(["sin", "tan"])
     
     outfactors = [
-        x,
         sqrt(x),
         1/x,
         1/sqrt(x),
@@ -26,7 +25,7 @@ def generator():
         u(x)=k^2+x^2
         trigsub=k*tan(theta)
         trigsimp=(k*sec(theta))^2
-        dxsub=k*sec(theta)
+        dxsub=k*(sec(theta))^2
         
         
     f=out(u(x))
