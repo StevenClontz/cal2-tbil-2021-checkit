@@ -4,8 +4,8 @@ def generator():
     x=var("x")
     n=var("n")
 
-    a=Integer(randint(1,3))*choice([-1,1])
-    b=Integer(randint(-5,5))
+    a=1 #Integer(randint(1,3))*choice([-1,1])
+    b=Integer(randint(-5,5))/choice([1,1,1,1,2,3,4,5])
     center=-1*b/a
     
     alt=choice([0,1])
