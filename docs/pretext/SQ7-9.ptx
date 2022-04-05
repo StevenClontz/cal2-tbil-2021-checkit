@@ -2,14 +2,14 @@
     <statement>
         <p>
             Use the <em>ratio</em> or <em>root</em> test to determine if 
-                <m>\displaystyle \sum_{n=1}^\infty \frac{2 \cdot 5^{n} n^{2}}{5 \cdot 3^{n} n!}</m>
+                <m>\displaystyle \sum_{n=1}^\infty \frac{n^{2} + 3}{4^{n}}</m>
             converges or diverges.
             
         </p>        
     </statement>
     <answer>
             
-                        <m>\displaystyle \sum_{n=1}^\infty \frac{2 \cdot 5^{n} n^{2}}{5 \cdot 3^{n} n!}</m> converges.                
+                        <m>\displaystyle \sum_{n=1}^\infty \frac{n^{2} + 3}{4^{n}}</m> converges.                
                       
     </answer>
 </exercise>

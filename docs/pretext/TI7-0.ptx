@@ -5,7 +5,7 @@
             <ol>
                 <li><m>\displaystyle \int \sqrt{x^{2} - 4}dx</m>.</li>
                 <li><m>\displaystyle \int -x^{7} \sin\left(x\right)dx</m>.</li>
-                <li><m>\displaystyle \int -\frac{x + 3}{{\left(x - 1\right)} x}dx</m>.</li>
+                <li><m>\displaystyle \int -\frac{x + 1}{{\left(x - 2\right)} {\left(x - 3\right)}}dx</m>.</li>
                 <li><m>\displaystyle \int e^{\left(-\frac{1}{2} \, x\right)}dx</m>.</li>
             </ol>
         </p>

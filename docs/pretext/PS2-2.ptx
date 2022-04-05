@@ -1,15 +1,15 @@
 <exercise checkit-seed="0002" checkit-slug="PS2" checkit-title="Domain of power series">
     <statement>
         <p>
-            Find the center of convergence, radius of convergence, and interval of convergence for the series: <me>\sum_{n=0}^\infty \frac{\left(\frac{2}{3}\right)^{n} {\left(3 \, x - 4\right)}^{n}}{n}.</me>
+            Find the center of convergence, radius of convergence, and interval of convergence for the series: <me>\sum_{n=0}^\infty \frac{\left(\frac{2}{3}\right)^{n} {\left(x + 2\right)}^{n}}{n}.</me>
         </p>
         
     </statement>
     <answer>
             <ul>
-                <li>The center of convergence is <m>\frac{4}{3}</m>.</li>
-                <li>The radius of convergence is <m>\frac{1}{2}</m>.</li>
-                <li>The interval of convergence is <m>[ \frac{5}{6}, \frac{11}{6} )</m>.</li>
+                <li>The center of convergence is <m>-2</m>.</li>
+                <li>The radius of convergence is <m>\frac{3}{2}</m>.</li>
+                <li>The interval of convergence is <m>[ -\frac{7}{2}, -\frac{1}{2} )</m>.</li>
             </ul>
     </answer>
 </exercise>

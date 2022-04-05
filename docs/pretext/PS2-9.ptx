@@ -1,15 +1,15 @@
 <exercise checkit-seed="0009" checkit-slug="PS2" checkit-title="Domain of power series">
     <statement>
         <p>
-            Find the center of convergence, radius of convergence, and interval of convergence for the series: <me>\sum_{n=0}^\infty \frac{\left(\frac{1}{3}\right)^{n} \left(-1\right)^{n} {\left(3 \, x - 1\right)}^{n}}{n}.</me>
+            Find the center of convergence, radius of convergence, and interval of convergence for the series: <me>\sum_{n=0}^\infty \frac{\left(-1\right)^{n} {\left(x + 2\right)}^{n}}{n}.</me>
         </p>
         
     </statement>
     <answer>
             <ul>
-                <li>The center of convergence is <m>\frac{1}{3}</m>.</li>
+                <li>The center of convergence is <m>-2</m>.</li>
                 <li>The radius of convergence is <m>1</m>.</li>
-                <li>The interval of convergence is <m>( -\frac{2}{3}, \frac{4}{3} ]</m>.</li>
+                <li>The interval of convergence is <m>( -3, -1 ]</m>.</li>
             </ul>
     </answer>
 </exercise>

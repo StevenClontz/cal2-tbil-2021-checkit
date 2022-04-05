@@ -1,13 +1,13 @@
 <exercise checkit-seed="0007" checkit-slug="PS2" checkit-title="Domain of power series">
     <statement>
         <p>
-            Find the center of convergence, radius of convergence, and interval of convergence for the series: <me>\sum_{n=0}^\infty \frac{\left(-1\right)^{n} {\left(3 \, x + 4\right)}^{n}}{n!}.</me>
+            Find the center of convergence, radius of convergence, and interval of convergence for the series: <me>\sum_{n=0}^\infty \frac{\left(-1\right)^{n} {\left(x + 1\right)}^{n}}{n!}.</me>
         </p>
         
     </statement>
     <answer>
             <ul>
-                <li>The center of convergence is <m>-\frac{4}{3}</m>.</li>
+                <li>The center of convergence is <m>-1</m>.</li>
                 <li>The radius of convergence is <m>+\infty</m>.</li>
                 <li>The interval of convergence is <m>( -\infty, +\infty )</m>.</li>
             </ul>
