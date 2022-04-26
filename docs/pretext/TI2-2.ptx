@@ -3,7 +3,7 @@
         <ol>
             <li>
                 <p>
-                    Explain how to find the anti-derivative of <m>f(x)=2 \, x^{3} \sin\left(x\right)</m>.
+                    Explain how to find the anti-derivative of <m>f(x)=4 \, x e^{\left(3 \, x\right)}</m>.
                     
                 </p>
                 
@@ -12,7 +12,7 @@
                 <p>
                     Explain how to evaluate the following definite integral:
                     <me>
-                        \int_{ 4 }^{ 7 } 2 \, x^{3} \sin\left(x\right) dx.
+                        \int_{ 1 }^{ 6 } 4 \, x e^{\left(3 \, x\right)} dx.
                     </me>
                 </p>
             </li>
@@ -24,13 +24,13 @@
         <ol>
             <li>
                 <p>
-                    <m>\displaystyle \int 2 \, x^{3} \sin\left(x\right) dx=-2 \, x^{3} \cos\left(x\right) + 6 \, x^{2} \sin\left(x\right) + 12 \, x \cos\left(x\right) - 12 \, \sin\left(x\right)+C.</m>
+                    <m>\displaystyle \int 4 \, x e^{\left(3 \, x\right)} dx=\frac{4}{3} \, x e^{\left(3 \, x\right)} - \frac{4}{9} \, e^{\left(3 \, x\right)}+C.</m>
                 </p>
                 
             </li>
             <li>
                 <p>
-                    <m>\displaystyle \int_{ 4 }^{ 7 } 2 \, x^{3} \sin\left(x\right) dx = -602 \, \cos\left(7\right) + 80 \, \cos\left(4\right) + 282 \, \sin\left(7\right) - 84 \, \sin\left(4\right).</m>
+                    <m>\displaystyle \int_{ 1 }^{ 6 } 4 \, x e^{\left(3 \, x\right)} dx = \frac{68}{9} \, e^{18} - \frac{8}{9} \, e^{3}.</m>
                 </p>
                 
             </li>

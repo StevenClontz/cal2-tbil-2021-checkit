@@ -3,7 +3,7 @@
         <ol>
             <li>
                 <p>
-                    Explain how to find the anti-derivative of <m>f(x)=-3 \, x^{2} e^{x}</m>.
+                    Explain how to find the anti-derivative of <m>f(x)=7 \, x e^{\left(9 \, x\right)}</m>.
                     
                 </p>
                 
@@ -12,7 +12,7 @@
                 <p>
                     Explain how to evaluate the following definite integral:
                     <me>
-                        \int_{ -2 }^{ 4 } -3 \, x^{2} e^{x} dx.
+                        \int_{ -4 }^{ -2 } 7 \, x e^{\left(9 \, x\right)} dx.
                     </me>
                 </p>
             </li>
@@ -24,13 +24,13 @@
         <ol>
             <li>
                 <p>
-                    <m>\displaystyle \int -3 \, x^{2} e^{x} dx=-3 \, x^{2} e^{x} + 6 \, x e^{x} - 6 \, e^{x}+C.</m>
+                    <m>\displaystyle \int 7 \, x e^{\left(9 \, x\right)} dx=\frac{7}{9} \, x e^{\left(9 \, x\right)} - \frac{7}{81} \, e^{\left(9 \, x\right)}+C.</m>
                 </p>
                 
             </li>
             <li>
                 <p>
-                    <m>\displaystyle \int_{ -2 }^{ 4 } -3 \, x^{2} e^{x} dx = -30 \, e^{4} + 30 \, e^{\left(-2\right)}.</m>
+                    <m>\displaystyle \int_{ -4 }^{ -2 } 7 \, x e^{\left(9 \, x\right)} dx = -\frac{133}{81} \, e^{\left(-18\right)} + \frac{259}{81} \, e^{\left(-36\right)}.</m>
                 </p>
                 
             </li>

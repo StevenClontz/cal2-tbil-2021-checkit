@@ -6,7 +6,7 @@
                 <li><m>\displaystyle \int \sqrt{x^{2} - 4}dx</m>.</li>
                 <li><m>\displaystyle \int -5 \, x \sin\left(x\right)dx</m>.</li>
                 <li><m>\displaystyle \int \frac{5 \, \sin\left(x\right)}{\cos\left(x\right)}dx</m>.</li>
-                <li><m>\displaystyle \int \frac{7 \, x - 10}{{\left(x + 5\right)} {\left(x - 4\right)}}dx</m>.</li>
+                <li><m>\displaystyle \int \frac{7 \, x - 2}{{\left(x - 1\right)} x}dx</m>.</li>
             </ol>
         </p>
         

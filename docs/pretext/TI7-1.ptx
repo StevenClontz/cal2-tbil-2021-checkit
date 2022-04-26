@@ -5,7 +5,7 @@
             <ol>
                 <li><m>\displaystyle \int e^{\left(\frac{1}{2} \, x\right)}dx</m>.</li>
                 <li><m>\displaystyle \int 2 \, x^{5} \sin\left(x\right)dx</m>.</li>
-                <li><m>\displaystyle \int -\frac{7 \, x + 19}{{\left(x + 4\right)} {\left(x + 1\right)}}dx</m>.</li>
+                <li><m>\displaystyle \int -\frac{7 \, x - 25}{{\left(x - 3\right)} {\left(x - 4\right)}}dx</m>.</li>
                 <li><m>\displaystyle \int \sqrt{-x^{2} + 1}dx</m>.</li>
             </ol>
         </p>

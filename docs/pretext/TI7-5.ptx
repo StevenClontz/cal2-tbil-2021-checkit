@@ -5,7 +5,7 @@
             <ol>
                 <li><m>\displaystyle \int \sqrt{-x^{2} + 1}dx</m>.</li>
                 <li><m>\displaystyle \int \frac{3 \, x^{2}}{2 \, {\left(x^{3} - 1\right)}^{\frac{3}{2}}}dx</m>.</li>
-                <li><m>\displaystyle \int \frac{2 \, {\left(x - 5\right)}}{{\left(x - 3\right)} {\left(x - 4\right)}}dx</m>.</li>
+                <li><m>\displaystyle \int \frac{2 \, {\left(x + 4\right)}}{{\left(x + 1\right)} {\left(x - 2\right)}}dx</m>.</li>
                 <li><m>\displaystyle \int 2 \, x^{3} e^{x}dx</m>.</li>
             </ol>
         </p>

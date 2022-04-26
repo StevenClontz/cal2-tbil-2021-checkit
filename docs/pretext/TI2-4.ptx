@@ -3,7 +3,7 @@
         <ol>
             <li>
                 <p>
-                    Explain how to find the anti-derivative of <m>f(x)=-2 \, x^{3} e^{x}</m>.
+                    Explain how to find the anti-derivative of <m>f(x)=4 \, x e^{\left(6 \, x\right)}</m>.
                     
                 </p>
                 
@@ -12,7 +12,7 @@
                 <p>
                     Explain how to evaluate the following definite integral:
                     <me>
-                        \int_{ -5 }^{ -2 } -2 \, x^{3} e^{x} dx.
+                        \int_{ 3 }^{ 8 } 4 \, x e^{\left(6 \, x\right)} dx.
                     </me>
                 </p>
             </li>
@@ -24,13 +24,13 @@
         <ol>
             <li>
                 <p>
-                    <m>\displaystyle \int -2 \, x^{3} e^{x} dx=-2 \, x^{3} e^{x} + 6 \, x^{2} e^{x} - 12 \, x e^{x} + 12 \, e^{x}+C.</m>
+                    <m>\displaystyle \int 4 \, x e^{\left(6 \, x\right)} dx=\frac{2}{3} \, x e^{\left(6 \, x\right)} - \frac{1}{9} \, e^{\left(6 \, x\right)}+C.</m>
                 </p>
                 
             </li>
             <li>
                 <p>
-                    <m>\displaystyle \int_{ -5 }^{ -2 } -2 \, x^{3} e^{x} dx = 76 \, e^{\left(-2\right)} - 472 \, e^{\left(-5\right)}.</m>
+                    <m>\displaystyle \int_{ 3 }^{ 8 } 4 \, x e^{\left(6 \, x\right)} dx = \frac{47}{9} \, e^{48} - \frac{17}{9} \, e^{18}.</m>
                 </p>
                 
             </li>

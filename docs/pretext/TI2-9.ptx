@@ -3,7 +3,7 @@
         <ol>
             <li>
                 <p>
-                    Explain how to find the anti-derivative of <m>f(x)=5 \, x^{3} e^{x}</m>.
+                    Explain how to find the anti-derivative of <m>f(x)=7 \, x e^{\left(6 \, x\right)}</m>.
                     
                 </p>
                 
@@ -12,7 +12,7 @@
                 <p>
                     Explain how to evaluate the following definite integral:
                     <me>
-                        \int_{ -2 }^{ 4 } 5 \, x^{3} e^{x} dx.
+                        \int_{ -2 }^{ 4 } 7 \, x e^{\left(6 \, x\right)} dx.
                     </me>
                 </p>
             </li>
@@ -24,13 +24,13 @@
         <ol>
             <li>
                 <p>
-                    <m>\displaystyle \int 5 \, x^{3} e^{x} dx=5 \, x^{3} e^{x} - 15 \, x^{2} e^{x} + 30 \, x e^{x} - 30 \, e^{x}+C.</m>
+                    <m>\displaystyle \int 7 \, x e^{\left(6 \, x\right)} dx=\frac{7}{6} \, x e^{\left(6 \, x\right)} - \frac{7}{36} \, e^{\left(6 \, x\right)}+C.</m>
                 </p>
                 
             </li>
             <li>
                 <p>
-                    <m>\displaystyle \int_{ -2 }^{ 4 } 5 \, x^{3} e^{x} dx = 170 \, e^{4} + 190 \, e^{\left(-2\right)}.</m>
+                    <m>\displaystyle \int_{ -2 }^{ 4 } 7 \, x e^{\left(6 \, x\right)} dx = \frac{161}{36} \, e^{24} + \frac{91}{36} \, e^{\left(-12\right)}.</m>
                 </p>
                 
             </li>

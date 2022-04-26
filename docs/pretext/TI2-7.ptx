@@ -3,7 +3,7 @@
         <ol>
             <li>
                 <p>
-                    Explain how to find the anti-derivative of <m>f(x)=-5 \, x^{3} e^{x}</m>.
+                    Explain how to find the anti-derivative of <m>f(x)=6 \, x e^{\left(10 \, x\right)}</m>.
                     
                 </p>
                 
@@ -12,7 +12,7 @@
                 <p>
                     Explain how to evaluate the following definite integral:
                     <me>
-                        \int_{ 3 }^{ 6 } -5 \, x^{3} e^{x} dx.
+                        \int_{ 3 }^{ 8 } 6 \, x e^{\left(10 \, x\right)} dx.
                     </me>
                 </p>
             </li>
@@ -24,13 +24,13 @@
         <ol>
             <li>
                 <p>
-                    <m>\displaystyle \int -5 \, x^{3} e^{x} dx=-5 \, x^{3} e^{x} + 15 \, x^{2} e^{x} - 30 \, x e^{x} + 30 \, e^{x}+C.</m>
+                    <m>\displaystyle \int 6 \, x e^{\left(10 \, x\right)} dx=\frac{3}{5} \, x e^{\left(10 \, x\right)} - \frac{3}{50} \, e^{\left(10 \, x\right)}+C.</m>
                 </p>
                 
             </li>
             <li>
                 <p>
-                    <m>\displaystyle \int_{ 3 }^{ 6 } -5 \, x^{3} e^{x} dx = -690 \, e^{6} + 60 \, e^{3}.</m>
+                    <m>\displaystyle \int_{ 3 }^{ 8 } 6 \, x e^{\left(10 \, x\right)} dx = \frac{237}{50} \, e^{80} - \frac{87}{50} \, e^{30}.</m>
                 </p>
                 
             </li>

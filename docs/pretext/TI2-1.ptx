@@ -3,7 +3,7 @@
         <ol>
             <li>
                 <p>
-                    Explain how to find the anti-derivative of <m>f(x)=4 \, x^{2} \cos\left(x\right)</m>.
+                    Explain how to find the anti-derivative of <m>f(x)=9 \, x \sin\left(8 \, x\right)</m>.
                     
                 </p>
                 
@@ -12,7 +12,7 @@
                 <p>
                     Explain how to evaluate the following definite integral:
                     <me>
-                        \int_{ -5 }^{ -1 } 4 \, x^{2} \cos\left(x\right) dx.
+                        \int_{ -5 }^{ -1 } 9 \, x \sin\left(8 \, x\right) dx.
                     </me>
                 </p>
             </li>
@@ -24,13 +24,13 @@
         <ol>
             <li>
                 <p>
-                    <m>\displaystyle \int 4 \, x^{2} \cos\left(x\right) dx=4 \, x^{2} \sin\left(x\right) + 8 \, x \cos\left(x\right) - 8 \, \sin\left(x\right)+C.</m>
+                    <m>\displaystyle \int 9 \, x \sin\left(8 \, x\right) dx=-\frac{9}{8} \, x \cos\left(8 \, x\right) + \frac{9}{64} \, \sin\left(8 \, x\right)+C.</m>
                 </p>
                 
             </li>
             <li>
                 <p>
-                    <m>\displaystyle \int_{ -5 }^{ -1 } 4 \, x^{2} \cos\left(x\right) dx = 40 \, \cos\left(5\right) - 8 \, \cos\left(1\right) + 92 \, \sin\left(5\right) + 4 \, \sin\left(1\right).</m>
+                    <m>\displaystyle \int_{ -5 }^{ -1 } 9 \, x \sin\left(8 \, x\right) dx = -\frac{45}{8} \, \cos\left(40\right) + \frac{9}{8} \, \cos\left(8\right) + \frac{9}{64} \, \sin\left(40\right) - \frac{9}{64} \, \sin\left(8\right).</m>
                 </p>
                 
             </li>

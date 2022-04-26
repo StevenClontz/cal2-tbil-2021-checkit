@@ -3,7 +3,7 @@
         <ol>
             <li>
                 <p>
-                    Explain how to find the anti-derivative of <m>f(x)=3 \, x \cos\left(x\right)</m>.
+                    Explain how to find the anti-derivative of <m>f(x)=7 \, x \cos\left(6 \, x\right)</m>.
                     
                 </p>
                 
@@ -12,7 +12,7 @@
                 <p>
                     Explain how to evaluate the following definite integral:
                     <me>
-                        \int_{ -2 }^{ 3 } 3 \, x \cos\left(x\right) dx.
+                        \int_{ -2 }^{ 3 } 7 \, x \cos\left(6 \, x\right) dx.
                     </me>
                 </p>
             </li>
@@ -24,13 +24,13 @@
         <ol>
             <li>
                 <p>
-                    <m>\displaystyle \int 3 \, x \cos\left(x\right) dx=3 \, x \sin\left(x\right) + 3 \, \cos\left(x\right)+C.</m>
+                    <m>\displaystyle \int 7 \, x \cos\left(6 \, x\right) dx=\frac{7}{6} \, x \sin\left(6 \, x\right) + \frac{7}{36} \, \cos\left(6 \, x\right)+C.</m>
                 </p>
                 
             </li>
             <li>
                 <p>
-                    <m>\displaystyle \int_{ -2 }^{ 3 } 3 \, x \cos\left(x\right) dx = 3 \, \cos\left(3\right) - 3 \, \cos\left(2\right) + 9 \, \sin\left(3\right) - 6 \, \sin\left(2\right).</m>
+                    <m>\displaystyle \int_{ -2 }^{ 3 } 7 \, x \cos\left(6 \, x\right) dx = \frac{7}{36} \, \cos\left(18\right) - \frac{7}{36} \, \cos\left(12\right) + \frac{7}{2} \, \sin\left(18\right) - \frac{7}{3} \, \sin\left(12\right).</m>
                 </p>
                 
             </li>

@@ -5,7 +5,7 @@
             <ol>
                 <li><m>\displaystyle \int \frac{3 \, \sin\left(x\right)}{2 \, \cos\left(x\right)^{\frac{3}{2}}}dx</m>.</li>
                 <li><m>\displaystyle \int \sqrt{x^{2} - 16}dx</m>.</li>
-                <li><m>\displaystyle \int -\frac{3 \, {\left(3 \, x + 10\right)}}{{\left(x + 5\right)} {\left(x + 2\right)}}dx</m>.</li>
+                <li><m>\displaystyle \int -\frac{9 \, x + 11}{{\left(x + 4\right)} {\left(x - 1\right)}}dx</m>.</li>
                 <li><m>\displaystyle \int -5 \, x e^{x}dx</m>.</li>
             </ol>
         </p>

@@ -3,7 +3,7 @@
         <ol>
             <li>
                 <p>
-                    Explain how to find the anti-derivative of <m>f(x)=x \cos\left(x\right)</m>.
+                    Explain how to find the anti-derivative of <m>f(x)=7 \, x \cos\left(2 \, x\right)</m>.
                     
                 </p>
                 
@@ -12,7 +12,7 @@
                 <p>
                     Explain how to evaluate the following definite integral:
                     <me>
-                        \int_{ 3 }^{ 5 } x \cos\left(x\right) dx.
+                        \int_{ 3 }^{ 5 } 7 \, x \cos\left(2 \, x\right) dx.
                     </me>
                 </p>
             </li>
@@ -24,13 +24,13 @@
         <ol>
             <li>
                 <p>
-                    <m>\displaystyle \int x \cos\left(x\right) dx=x \sin\left(x\right) + \cos\left(x\right)+C.</m>
+                    <m>\displaystyle \int 7 \, x \cos\left(2 \, x\right) dx=\frac{7}{2} \, x \sin\left(2 \, x\right) + \frac{7}{4} \, \cos\left(2 \, x\right)+C.</m>
                 </p>
                 
             </li>
             <li>
                 <p>
-                    <m>\displaystyle \int_{ 3 }^{ 5 } x \cos\left(x\right) dx = \cos\left(5\right) - \cos\left(3\right) + 5 \, \sin\left(5\right) - 3 \, \sin\left(3\right).</m>
+                    <m>\displaystyle \int_{ 3 }^{ 5 } 7 \, x \cos\left(2 \, x\right) dx = \frac{7}{4} \, \cos\left(10\right) - \frac{7}{4} \, \cos\left(6\right) + \frac{35}{2} \, \sin\left(10\right) - \frac{21}{2} \, \sin\left(6\right).</m>
                 </p>
                 
             </li>

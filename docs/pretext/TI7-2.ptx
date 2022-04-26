@@ -3,7 +3,7 @@
         <p>
             For each of the following integrals, describe which strategy you would use to integrate it, and why that is the best choice.  (You do <em>not</em> need to actually compute the integral.)
             <ol>
-                <li><m>\displaystyle \int \frac{1}{{\left(x + 2\right)} {\left(x + 1\right)}}dx</m>.</li>
+                <li><m>\displaystyle \int -\frac{6}{{\left(x + 2\right)} {\left(x - 4\right)}}dx</m>.</li>
                 <li><m>\displaystyle \int -40 \, {\left(x^{2} - 3\right)}^{4} xdx</m>.</li>
                 <li><m>\displaystyle \int \sqrt{x^{2} - 16}dx</m>.</li>
                 <li><m>\displaystyle \int -5 \, x^{3} \sin\left(x\right)dx</m>.</li>
