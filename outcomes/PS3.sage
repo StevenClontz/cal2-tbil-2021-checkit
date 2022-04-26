@@ -7,6 +7,8 @@ def generator():
     
     funct=choice(['sin', 'cos', 'exp', 'oneover'])
     
+    #funct='oneover'
+    
     a=Integer(randint(1,5)*choice([-1,1]))
     k=Integer(randint(2,5))
     m=Integer(randint(1,5))
@@ -48,9 +50,9 @@ def generator():
         start=1
         
     if funct=='oneover':
-        f=1/(1-x)
-        fak=1/(1-a*x^k)
-        fm=x^m/(1-x)
+        f=(1-x)^(-1)
+        fak=(1-a*x^k)^(-1)
+        fm=x^m*(1-x)^(-1)
         seq=x^(n)
         seqak=(a*x^k)^(n)
         seqm=x^(n+m)

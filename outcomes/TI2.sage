@@ -5,7 +5,6 @@ def generator():
     x=var("x")
 
     
-    u(x)=x^randint(1,3)
     
     vpfactors=[
         e^x,
@@ -16,10 +15,10 @@ def generator():
     shuffle(vpfactors)
     vp(x)=vpfactors[0]
     
-    k=randint(1,5)*choice([-1,1])
+    k=randint(2,10)
     
     
-    dfdx=k*u(x)*vp(x)
+    dfdx=x*vp(k*x)*randint(2,10)
     
     f=indefinite_integral(dfdx, x)
     
